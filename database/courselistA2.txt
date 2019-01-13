@@ -1,0 +1,1746 @@
+ACCT*1220,0.50,Introductory Financial Accounting,B,
+ACCT*1240,0.50,Applied Financial Accounting,W,ACCT*1220
+ACCT*2230,0.50,Management Accounting,B,ACCT*1220
+ACCT*3230,0.50,Intermediate Management Accounting,B,ACCT*2230
+ACCT*3280,0.50,Auditing I,B,ACCT*3330
+ACCT*3330,0.50,Intermediate Financial Accounting I,B,ACCT*1220
+ACCT*3340,0.50,Intermediate Financial Accounting II,B,ACCT*3330
+ACCT*3350,0.50,Taxation,B,ACCT*3330
+ACCT*4220,0.50,Advanced Financial Accounting,F,ACCT*3330:ACCT*3340
+ACCT*4230,0.50,Advanced Management Accounting,W,ACCT*3230
+ACCT*4270,0.50,Auditing II,F,ACCT*3280
+ACCT*4290,0.50,IT Auditing and Data Analytics,W,ACCT*3280
+ACCT*4340,0.50,Accounting Theory,W,ACCT*4220
+ACCT*4350,0.50,Income Taxation II,F,ACCT*3350
+ACCT*4440,0.50,Integrated Cases in Accounting,W,ACCT*4220
+AGR*1110,1.00,Introduction to the Agri-Food Systems,F,
+AGR*2050,0.50,Agroecology,W,AGR*1110:BIOL*1050
+AGR*2150,0.50,Plant Agriculture for International Development,F,
+AGR*2320,0.50,Soils in Agroecosystems,F,
+AGR*2350,0.50,Animal Production Systems and Health and Industry,F,BIOL*1030
+AGR*2470,0.50,Introduction to Plant Agriculture,F,BIOL*1050
+AGR*2500,0.50,Field Course in International Agriculture,W,AGR*1110
+AGR*3010,0.50,Special Studies in Agricultural Science I,B,
+AGR*3450,0.50,Research Methods in Agricultural Science,F,GEOG*2460
+AGR*3500,0.50,Experiential Education I,F,
+AGR*4010,0.50,Special Studies in Agricultural Science II,B,
+AGR*4450,1.00,Research Project I,B,
+AGR*4460,1.00,Research Project II,B,AGR*4450
+AGR*4600,1.00,Agriculture and Food Issues Problem Solving,W,
+ANSC*1210,1.00,Principles of Animal Care and Welfare,W,BIOL*1050
+ANSC*2330,0.50,Horse Management Science,F,BIOL*1040
+ANSC*2340,0.50,Structure of Farm Animals,W,BIOL*1050
+ANSC*3040,0.50,Animal Reproduction,W,ANSC*3080
+ANSC*3050,0.50,Aquaculture: Advanced Issues,F,AGR*2350
+ANSC*3080,0.50,Agricultural Animal Physiology,F,BIOC*2580
+ANSC*3120,0.50,Introduction to Animal Nutrition,F,
+ANSC*3170,0.50,Nutrition of Fish and Crustacea,W,NUTR*3210
+ANSC*3180,0.50,Wildlife Nutrition,W,NUTR*3210
+ANSC*3270,0.50,Animal Disorders,W,ANSC*3080
+ANSC*4010,0.50,Animal Welfare Judging and Evaluation,F,ANSC*1210:ANSC*3080
+ANSC*4050,0.50,Biotechnology in Animal Science,F,MBG*2040
+ANSC*4090,0.50,Applied Animal Behaviour,F,ANSC*3080
+ANSC*4100,0.50,Applied Environmental Physiology and Animal Housing,W,ANSC*3080
+ANSC*4230,0.50,Challenges and Opportunities in Dairy Cattle Production,F,ANSC*3080:ANSC*3120:MBG*3060
+ANSC*4260,0.50,Beef Cattle Nutrition,W,ANSC*3120
+ANSC*4270,0.50,Dairy Cattle Nutrition,F,ANSC*3120
+ANSC*4280,0.50,Poultry Nutrition,F,ANSC*3120
+ANSC*4290,0.50,Swine Nutrition,F,ANSC*3120
+ANSC*4350,0.50,Experiments in Animal Biology,W,ANSC*3080:ANSC*4090
+ANSC*4470,0.50,Animal Metabolism,W,NUTR*3210
+ANSC*4490,0.50,Applied Endocrinology,W,ANSC*3080
+ANSC*4560,0.50,Pet Nutrition,F,NUTR*3210
+ANSC*4610,0.50,Critical Analysis in Animal Science,W,
+ANSC*4650,0.50,Comparative Immunology,W,ANSC*3080
+ANSC*4700,0.50,Research in Animal Biology I,B,
+ANSC*4710,0.50,Research in Animal Biology II,B,
+ANTH*1120,0.50,Biological Anthropology,F,
+ANTH*1150,0.50,Introduction to Anthropology,B,
+ANTH*2160,0.50,Social Anthropology,W,ANTH*1150
+ANTH*2230,0.50,Regional Ethnography,F,ANTH*1150
+ANTH*2660,0.50,Contemporary Native Peoples of Canada,W,ANTH*1150
+ANTH*3550,0.50,Medical Anthropology,W,ANTH*2160
+ANTH*3650,0.50,Prehistory of Canadian Native Peoples,F,ANTH*2160:ANTH*2230
+ANTH*3690,0.50,Engaging Anthropological Theory,F,ANTH*2160:ANTH*2230:SOAN*2120
+ANTH*3770,0.50,Kinship and Family and Power,W,ANTH*2160:ANTH*2230:SOAN*2120
+ANTH*3840,0.50,Seminar in Anthropology,B,ANTH*2160:SOAN*2120
+ANTH*3850,0.50,Seminar in Anthropology,B,ANTH*2160:SOAN*2120
+ANTH*3950,0.50,Special Projects in Anthropology,B,
+ANTH*4300,0.50,Anthropological Issues,F,ANTH*3690:SOAN*3070
+ANTH*4440,0.50,Culture and Rights and Development,W,ANTH*3690:SOAN*3070
+ANTH*4540,0.50,Seminar in Anthropology,B,ANTH*3690:SOAN*3070
+ANTH*4550,0.50,Topics in the Anthropology of Health,F,ANTH*3690:SOAN*3070
+ANTH*4640,0.50,Seminar in Anthropology,B,ANTH*3690:SOAN*3070
+ANTH*4700,0.50,Issues in Contemporary Anthropological Theory,W,ANTH*3690:SOAN*3070
+ANTH*4740,0.50,Seminar in Anthropology,B,ANTH*3690:SOAN*3070
+ANTH*4840,0.50,Seminar in Anthropology,B,ANTH*3690:SOAN*3070
+ANTH*4880,0.50,Special Projects in Anthropology,B,
+ANTH*4890,0.50,Special Projects in Anthropology,B,
+ANTH*4900,0.50,Honours Anthropology Thesis I,B,ANTH*3690:SOAN*3070
+ANTH*4910,0.50,Honours Anthropology Thesis II,B,ANTH*4900
+ARAB*1100,0.50,Introductory Arabic I,F,
+ARAB*1110,0.50,Introductory Arabic II,W,ARAB*1100
+ARTH*1510,0.50,Art Historical Studies I,F,
+ARTH*1520,0.50,Art Historical Studies II,W,
+ARTH*2050,0.50,Modern Latin American Art,F,ARTH*1510
+ARTH*2060,0.50,Aboriginal Arts in the Americas,F,ARTH*1510
+ARTH*2070,0.50,Art of the USA,W,ARTH*1510
+ARTH*2120,0.50,Introduction to Museology,W,ARTH*1510
+ARTH*2150,0.50,Art and Archaeology of Greece,F,ARTH*1510
+ARTH*2220,0.50,The Visual Arts Today,F,ARTH*1510
+ARTH*2280,0.50,Modern Architecture,W,ARTH*1510
+ARTH*2290,0.50,History of Photographic Media,B,
+ARTH*2480,0.50,Introduction to Art Theory and Criticism,F,ARTH*1510
+ARTH*2490,0.50,History of Canadian Art,F,ARTH*1510
+ARTH*2540,0.50,Medieval Art,F,ARTH*1510
+ARTH*2550,0.50,The Italian Renaissance,W,ARTH*1510
+ARTH*2580,0.50,Late Modern Art: 1900-1950,F,ARTH*1510
+ARTH*2600,0.50,Early Modern Art,W,ARTH*1510
+ARTH*2950,0.50,Baroque Art,W,ARTH*1510
+ARTH*3010,0.50,Contemporary Canadian Art,F,
+ARTH*3060,0.50,Public Art,W,
+ARTH*3150,0.50,Space: Roman Art and Urbanism,W,
+ARTH*3200,0.50,Colour: Practice and Meanings in Western Art,F,
+ARTH*3210,0.50,Critical Issues in Art History,W,ARTH*2480
+ARTH*3220,0.50,Nationalism and Identity in Art,F,
+ARTH*3320,0.50,Lives: Aspects of Western Art,W,
+ARTH*3330,0.50,Display: Visual Culture in Western Europe,W,
+ARTH*3340,0.50,Studies in Renaissance and Baroque Art,F,
+ARTH*3460,0.50,English Art: 1750 to Present,F,
+ARTH*3520,0.50,Idea: Art Since 1950,F,
+ARTH*3600,0.50,Topics in the Long Eighteenth Century,W,
+ARTH*3620,0.50,Museum Studies,F,
+ARTH*3780,0.50,Gender and Art,W,
+ARTH*4310,1.00,Topics in Art and Visual Culture I,W,
+ARTH*4320,1.00,Topics in Art and Visual Culture II,F,
+ARTH*4330,1.00,Topics in Art and Visual Culture III,W,
+ARTH*4340,1.00,Topics in Art and Visual Culture IV,F,
+ARTH*4350,1.00,Topics in Art and Visual Culture V,F,
+ARTH*4600,0.50,Individual Study: Art History,B,
+ARTH*4800,0.50,Experiential Learning,B,
+ASCI*1110,0.50,Society and Inquiry I,F,
+ASCI*1120,0.50,Society and Inquiry II,W,ASCI*1110
+ASCI*2050,0.50,Uses of Knowledge,F,ASCI*1120
+ASCI*3000,0.50,Arts and Sciences Community Project,F,ASCI*2000
+ASCI*3100,0.50,Case Studies in Arts and Sciences Research,W,ASCI*2000
+ASCI*3200,0.50,Issues in Public Health,B,
+ASCI*3700,0.50,Independent Studies in Arts/Sciences,B,
+ASCI*4010,1.00,Arts and Sciences Honours Research Seminar,W,ASCI*3000
+ASCI*4020,0.50,Topics in Arts and Sciences Research,B,ASCI*2000
+ASCI*4030,0.50,Topics in Arts and Sciences Research,B,ASCI*2000
+ASCI*4700,0.50,Independent Studies in Arts/Sciences,B,
+ASCI*4710,0.50,Independent Studies in Arts/Sciences,B,ASCI*4700
+BIOC*2580,0.50,Introduction to Biochemistry,B,CHEM*1050
+BIOC*3560,0.50,Structure and Function in Biochemistry,B,BIOC*2580
+BIOC*3570,0.75,Analytical Biochemistry,B,CHEM*2400:BIOC*2580
+BIOC*4520,0.50,Metabolic Processes,F,BIOC*3560
+BIOC*4540,0.75,Enzymology,W,BIOC*3560:BIOC*3570
+BIOC*4580,0.50,Membrane Biochemistry,W,BIOC*3560
+BIOL*1020,0.50,Introduction to Biology,F,
+BIOL*1050,0.50,Biology of Plants and Animals in Managed Ecosystems,F,
+BIOL*1070,0.50,Discovering Biodiversity,B,
+BIOL*1080,0.50,Biological Concepts of Health,B,
+BIOL*1090,0.50,Introduction to Molecular and Cellular Biology,B,
+BIOL*1500,0.50,Humans in the Natural World,B,
+BIOL*2060,0.50,Ecology,B,BIOL*1070
+BIOL*2400,0.50,Evolution,B,BIOL*1070:BIOL*1090
+BIOL*3010,0.50,Laboratory and Field Work in Ecology,F,BIOL*2060:STAT*2040
+BIOL*3020,0.50,Population Genetics,F,MBG*2040
+BIOL*3040,0.50,Methods in Evolutionary Biology,W,BIOL*2400
+BIOL*3060,0.50,Populations and Communities and Ecosystems,W,BIOL*2060:GEOG*2460
+BIOL*3130,0.50,Conservation Biology,W,BIOL*2060
+BIOL*3300,0.50,Applied Bioinformatics,W,MBG*2040:STAT*2040
+BIOL*3450,0.50,Introduction to Aquatic Environments,F,BIOL*1070:CHEM*1050
+BIOL*3650,0.50,Applications in Biology,W,BIOL*1070
+BIOL*4010,0.50,Adaptational Physiology,W,
+BIOL*4110,1.00,Ecological Methods,F,BIOL*3010:BIOL*3060:STAT*2040
+BIOL*4120,0.50,Evolutionary Ecology,W,BIOL*2060:BIOL*2400
+BIOL*4150,0.50,Wildlife Conservation and Management,F,BIOL*3060
+BIOL*4350,0.50,Limnology of Natural and Polluted Waters,F,BIOL*3450
+BIOL*4410,0.75,Field Ecology,F,
+BIOL*4500,0.50,Natural Resource Policy Analysis,W,BIOL*4150
+BIOL*4610,0.75,Arctic Ecology,F,BIOL*2060
+BIOL*4700,0.50,Field Biology,B,BIOL*2060
+BIOL*4710,0.25,Field Biology,B,BIOL*2060
+BIOL*4800,0.50,Field Biology,B,BIOL*2060
+BIOL*4810,0.25,Field Biology,B,BIOL*2060
+BIOL*4900,0.50,Field Biology,B,BIOL*2060
+BIOM*2000,0.50,Concepts in Human Physiology,B,
+BIOM*3000,0.50,Functional Mammalian Neuroanatomy,F,BIOM*3200
+BIOM*3010,0.50,Biomedical Comparative Anatomy,F,BIOL*1070
+BIOM*3040,0.75,Medical Embryology,W,BIOL*1070:BIOL*1090:BIOL*1080
+BIOM*3090,0.50,Principles of Pharmacology,B,BIOC*2580:ANSC*3080
+BIOM*3200,1.00,Biomedical Physiology,B,BIOC*2580
+BIOM*3210,0.50,Critical Thinking in the Health Sciences,F,BIOL*1070
+BIOM*4030,0.50,Endocrine Physiology,W,BIOC*2580:BIOM*3200
+BIOM*4050,0.50,Biomedical Aspects of Aging,W,BIOM*3200
+BIOM*4070,0.50,Biomedical Histology,F,MCB*2050:ANSC*3080
+BIOM*4090,0.50,Pharmacology,B,BIOM*3090
+BIOM*4110,0.50,Mammalian Reproductive Biology,W,BIOM*3010
+BIOM*4150,0.50,Cancer Biology,W,MBG*2040:MCB*2050:BIOM*3040
+BIOM*4180,0.50,Cardiology,W,BIOM*3200
+BIOM*4300,0.50,Biomedical Communications,F,BIOL*1080:STAT*2040
+BIOM*4500,0.50,Literature-based Research in Biomedical Sciences,B,
+BIOM*4510,1.00,Research in Biomedical Sciences,B,
+BOT*1200,0.50,Plants and Human Use,W,
+BOT*2000,0.50,Plants and Biology and People,W,BIOL*1050
+BOT*2100,0.50,Life Strategies of Plants,B,BIOL*1050
+BOT*3050,0.50,Plant Functional Ecology,F,BIOL*1070
+BOT*3310,0.50,Plant Growth and Development,W,BIOL*1090:BIOL*1070
+BOT*3410,0.50,Plant Anatomy,F,BIOL*1070
+BOT*3710,0.50,Plant Diversity and Evolution,W,BIOL*1070
+BOT*4380,0.50,Metabolism in the Whole Life of Plants,W,BIOL*1090:BIOC*2580
+BUS*4550,0.50,Applied Business Project I,B,
+BUS*4560,0.50,Applied Business Project II,B,BUS*4550
+CHEM*1040,0.50,General Chemistry I,B,CHEM*1060
+CHEM*1050,0.50,General Chemistry II,B,CHEM*1040
+CHEM*1060,0.50,Introductory Chemistry,F,
+CHEM*1100,0.50,Chemistry Today,W,
+CHEM*2060,0.50,Structure and Bonding,F,CHEM*1050:IPS*1510:PHYS*1010
+CHEM*2070,0.50,Structure and Spectroscopy,B,CHEM*2060
+CHEM*2400,0.75,Analytical Chemistry I,B,CHEM*1050
+CHEM*2480,0.50,Analytical Chemistry I,B,CHEM*1050
+CHEM*2700,0.50,Organic Chemistry I,B,CHEM*1050
+CHEM*2820,0.50,Thermodynamics and Kinetics,F,CHEM*1050:IPS*1510
+CHEM*2880,0.50,Physical Chemistry,F,CHEM*1050:IPS*1500
+CHEM*3360,0.50,Environmental Chemistry and Toxicology,B,CHEM*1050
+CHEM*3430,0.50,Analytical Chemistry II: Instrumental Analysis,B,CHEM*2400
+CHEM*3440,0.50,Analytical Chemistry III: Analytical Instrumentation,F,CHEM*3430
+CHEM*3640,0.50,Chemistry of the Elements I,F,CHEM*2070
+CHEM*3650,0.50,Chemistry of the Elements II,W,CHEM*3640
+CHEM*3750,0.50,Organic Chemistry II,B,CHEM*2700
+CHEM*3760,0.50,Organic Chemistry III,W,CHEM*3750
+CHEM*3860,0.50,Quantum Chemistry,F,CHEM*2070:MATH*2170
+CHEM*3870,0.50,Molecular Spectroscopy,W,CHEM*3860:MATH*2150
+CHEM*4010,0.50,Chemistry and Industry,W,CHEM*2700:CHEM*3430:IPS*1510
+CHEM*4400,0.50,Advanced Topics in Analytical Chemistry,W,CHEM*3430
+CHEM*4620,0.50,Advanced Topics in Inorganic Chemistry,F,CHEM*3650
+CHEM*4630,0.50,Bioinorganic Chemistry,W,BIOC*2580:CHEM*3650
+CHEM*4720,0.50,Organic Reactivity,W,CHEM*3760
+CHEM*4730,0.50,Synthetic Organic Chemistry,F,CHEM*3750
+CHEM*4740,0.50,Topics in Bio-Organic Chemistry,F,BIOC*2580:CHEM*3750
+CHEM*4880,0.50,Topics in Advanced Physical Chemistry,W,CHEM*2820:CHEM*3860
+CHEM*4900,1.00,Chemistry Research Project I,B,CHEM*3430:CHEM*3640:CHEM*3650
+CHEM*4910,1.00,Chemistry Research Project II,B,CHEM*4900
+CHIN*1200,0.50,Introductory Chinese I,F,
+CHIN*1210,0.50,Introductory Chinese II,W,CHIN*1200
+CHIN*1280,0.50,Conversational Chinese I,F,
+CHIN*1290,0.50,Conversational Chinese II,W,CHIN*1280
+CHIN*2010,1.00,Chinese Language and Culture,F,CHIN*1200
+CHIN*2200,0.50,Intermediate Chinese I,F,CHIN*1210
+CHIN*2210,0.50,Intermediate Chinese II,W,CHIN*2200
+CIS*1000,0.50,Introduction to Computer Applications,B,
+CIS*1200,0.50,Introduction to Computing,B,
+CIS*1250,0.50,Software Design I,F,
+CIS*1500,0.50,Introduction to Programming,B,
+CIS*1910,0.50,Discrete Structures in Computing I,W,
+CIS*2030,0.50,Structure and Application of Microcomputers,F,CIS*1910:CIS*2500
+CIS*2050,0.50,Computers and Society,B,
+CIS*2170,0.75,User Interface Design,W,CIS*1200
+CIS*2250,0.50,Software Design II,W,CIS*1250:CIS*1500
+CIS*2430,0.50,Object Oriented Programming,F,CIS*2500
+CIS*2460,0.50,Modelling of Computer Systems,F,CIS*2500:STAT*2040
+CIS*2500,0.50,Intermediate Programming,W,CIS*1500
+CIS*2520,0.50,Data Structures,B,CIS*2500:CIS*1910
+CIS*2750,0.75,Software Systems Development and Integration,W,CIS*2430:CIS*2520
+CIS*2910,0.50,Discrete Structures in Computing II,F,CIS*1500:CIS*1910
+CIS*3000,0.50,Social Implications of Computing,F,
+CIS*3090,0.50,Parallel Programming,F,CIS*2030:CIS*3110
+CIS*3110,0.50,Operating Systems I,W,CIS*2520:CIS*2030
+CIS*3120,0.50,Digital Systems I,W,CIS*1910:CIS*2500
+CIS*3150,0.50,Theory of Computation,F,CIS*2750:CIS*3490
+CIS*3190,0.50,Software for Legacy Systems,W,CIS*2500
+CIS*3210,0.50,Computer Networks,F,CIS*3110
+CIS*3250,0.50,Software Design III,F,CIS*2250:CIS*2500
+CIS*3260,0.50,Software Design IV,F,CIS*2750:CIS*3250:CIS*3760
+CIS*3490,0.50,The Analysis and Design of Computer Algorithms,W,CIS*1910:ENGG*1500:CIS*2520
+CIS*3530,0.50,Data Base Systems and Concepts,F,CIS*2520
+CIS*3700,0.50,Introduction to Intelligent Systems,W,CIS*3750:CIS*2460
+CIS*3750,0.75,System Analysis and Design in Applications,B,CIS*2750
+CIS*3760,0.75,Software Engineering,B,CIS*3750
+CIS*4050,0.50,Digital Systems II,F,CIS*3110:CIS*3120
+CIS*4150,0.50,Software Reliability and Testing,F,CIS*3750
+CIS*4250,0.50,Software Design V,W,CIS*2750:CIS*3260
+CIS*4300,0.50,Human Computer Interaction,F,CIS*3110:CIS*3750
+CIS*4410,0.50,Trends in Distributed Systems,W,CIS*3210:CIS*3750
+CIS*4430,0.50,Information Organization and Retrieval,W,CIS*3110:CIS*3530:CIS*3750
+CIS*4450,0.50,Special Topics in Information Science,U,
+CIS*4500,0.50,Special Topics in Computing Science,U,
+CIS*4510,0.50,Computer Security Foundations,F,CIS*3210
+CIS*4520,0.50,Introduction to Crytography,W,CIS*3490
+CIS*4650,0.50,Compilers,W,CIS*2030:CIS*3110:CIS*3150
+CIS*4720,0.50,Image Processing and Vision,W,CIS*2750:CIS*3110:CIS*2460
+CIS*4780,0.50,Computational Intelligence,F,CIS*3750:CIS*2460
+CIS*4800,0.50,Computer Graphics,W,CIS*3110:CIS*3750
+CIS*4820,0.50,Game Programming,W,CIS*3110:CIS*3750
+CIS*4900,0.50,Computer Science Project,B,
+CIS*4910,0.50,Computer Science Thesis,B,CIS*4900
+CLAS*1000,0.50,Introduction to Classical Culture,B,
+CLAS*2000,0.50,Classical Mythology,B,
+CLAS*2150,0.50,Western Art: Greece,F,
+CLAS*2350,0.50,The Classical Tradition,W,CLAS*1000
+CLAS*2360,1.00,The Classical Tradition in Latin,W,LAT*2000
+CLAS*3000,0.50,The Rise and Fall of Athens,F,CLAS*1000
+CLAS*3010,0.50,The Roman Revolution,W,CLAS*1000
+CLAS*3020,0.50,History of the Hellenistic World,F,CLAS*1000
+CLAS*3030,0.50,Epic Heroes and Poems,W,CLAS*1000
+CLAS*3040,0.50,Greek Tragedy and Comedy,W,CLAS*1000
+CLAS*3050,1.00,The Rise and Fall of Athens in Greek,F,GREK*2020
+CLAS*3060,1.00,The Roman Revolution in Latin,W,LAT*2000
+CLAS*3070,1.00,History of the Hellenistic World in Greek,F,GREK*2020
+CLAS*3080,1.00,Epic Heroes and Poems in Greek,W,GREK*2020
+CLAS*3090,1.00,Greek Tragedy and Comedy in Greek,W,GREK*2020
+CLAS*3100,0.50,Religion in Greece and Rome,F,CLAS*1000
+CLAS*3120,1.00,Religion in Greece and Rome in Latin,F,LAT*2000
+CLAS*3150,0.50,Space: Roman Art and Urbanism,W,
+CLAS*3300,0.50,Directed Reading in Greek or Latin,U,LAT*2000:CLAS*2350
+CLAS*3700,0.50,Experiential Learning and Language,B,
+CLAS*4000,0.50,Novel and Romance in Antiquity,F,CLAS*3030
+CLAS*4010,1.00,Novel and Romance in Antiquity in Latin,F,LAT*2000
+CLAS*4150,0.50,Research Paper in Classics,B,
+CLAS*4400,0.50,Seminar in Classics,W,
+COOP*1000,0.00,Co-op Work Term I,B,COOP*1100
+COOP*1100,0.00,Introduction to Co-operative Education,B,
+COOP*2000,0.00,Co-op Work Term II,B,COOP*1000
+COOP*3000,0.00,Co-op Work Term III,B,COOP*2000
+COOP*4000,0.00,Co-op Work Term IV,B,COOP*3000
+COOP*5000,0.00,Co-op Work Term V,B,COOP*4000
+CROP*3300,0.50,Grain Crops,W,AGR*2050
+CROP*3310,0.50,Protein and Oilseed Crops,F,AGR*2050
+CROP*3340,0.50,Managed Grasslands,F,AGR*2050
+CROP*4220,0.50,Cropping Systems,W,CROP*3300
+CROP*4240,0.50,Weed Science,F,AGR*2470
+CROP*4260,0.50,Crop Science Field Trip,F,AGR*2470
+ECON*1050,0.50,Introductory Microeconomics,B,
+ECON*1100,0.50,Introductory Macroeconomics,B,
+ECON*2100,0.50,Economic Growth and Environmental Quality,F,ECON*1050
+ECON*2200,0.50,Industrial Relations,F,ECON*1050
+ECON*2310,0.50,Intermediate Microeconomics,B,ECON*1050:IPS*1500
+ECON*2410,0.50,Intermediate Macroeconomics,B,ECON*1100:IPS*1500
+ECON*2420,0.50,Canadian Economic History,W,ECON*1050:ECON*1100
+ECON*2560,0.50,Theory of Finance,B,ECON*1050:IPS*1500:ECON*2740
+ECON*2650,0.50,Introductory Development Economics,F,ECON*1050:ECON*1100
+ECON*2720,0.50,Business History,W,ECON*1050:ECON*1100
+ECON*2740,0.50,Economic Statistics,B,ECON*1100:ECON*1050:MATH*1000
+ECON*2770,0.50,Introductory Mathematical Economics,B,ECON*1100:ECON*1050:MATH*1030
+ECON*3100,0.50,Game Theory,W,ECON*2310:ECON*2410:ECON*2770
+ECON*3300,0.50,Economics of Health and the Workplace,U,ECON*2310:ECON*2740
+ECON*3360,0.50,The Strategy of Mergers and Acquisitions,F,ECON*2310:ECON*2410:ECON*2560
+ECON*3400,0.50,The Economics of Personnel Management,U,ECON*2310
+ECON*3500,0.50,Urban Economics,W,ECON*2310
+ECON*3520,0.50,Labour Economics,F,ECON*2310:ECON*2740
+ECON*3530,0.50,Industrial Organization,F,ECON*2310:ECON*2770
+ECON*3580,0.50,Economics of Regulation,U,ECON*2310
+ECON*3610,0.50,Public Economics,W,ECON*2310
+ECON*3620,0.50,International Trade,U,ECON*2310
+ECON*3660,0.50,Economics of Equity Markets,B,ECON*2310:ECON*2560
+ECON*3710,0.50,Advanced Microeconomics,B,ECON*2310:ECON*2770
+ECON*3730,0.50,The Origins of International Inequality,W,ECON*1050:ECON*1100
+ECON*3740,0.50,Introduction to Econometrics,B,ECON*2310:ECON*2410:ECON*2740
+ECON*3760,0.50,Fundamentals of Derivatives,W,ECON*2310:ECON*2560
+ECON*3810,0.50,Advanced Macroeconomics,W,ECON*2410:ECON*2740:ECON*2770
+ECON*3860,0.50,International Finance,F,ECON*2410:ECON*2560
+ECON*3960,0.50,Money and Credit and the Financial System,W,ECON*2410:ECON*2560
+ECON*4400,0.50,Economics of Organizations and Corporate Governance,U,ECON*2310
+ECON*4500,0.50,Topics in Urban Economics,U,ECON*3740:ECON*3710
+ECON*4560,0.50,Advanced Topics in Finance,W,ECON*2560:ECON*3710:ECON*3100
+ECON*4640,0.50,Applied Econometrics I,F,ECON*3740
+ECON*4660,0.50,Risk Management in Finance and Insurance,U,ECON*3710:ECON*3360
+ECON*4700,0.50,Advanced Mathematical Economics,F,ECON*3710:ECON*3740
+ECON*4710,0.50,Advanced Topics in Microeconomics,F,ECON*3710
+ECON*4720,0.50,Topics in Economic History,U,ECON*2310
+ECON*4750,0.50,Topics in Public Economics,U,ECON*3710
+ECON*4760,0.50,Topics in Monetary Economics,U,ECON*3600:ECON*3740:ECON*3510
+ECON*4780,0.50,Topics in Industrial Organization,U,ECON*3530:ECON*3740
+ECON*4790,0.50,Topics in Labour Market Theory,U,ECON*3740:ECON*3710
+ECON*4800,0.50,Competitiveness and Strategic Advantage,B,BUS*3320:ECON*2310:ECON*2560
+ECON*4810,0.50,Advanced Topics in Macroeconomics,W,ECON*3600:ECON*3710:ECON*3740
+ECON*4830,0.50,Economic Development,W,ECON*2310
+ECON*4840,0.50,Applied Econometrics II,W,ECON*4640
+ECON*4860,0.50,Seminar in Current Economic Problems,U,ECON*3600:ECON*3710:ECON*3740
+ECON*4880,0.50,Topics in International Economics,U,ECON*3610
+ECON*4890,0.50,History of Economic Thought,U,ECON*2310:ECON*2410
+ECON*4900,0.50,Special Study in Economics,B,ECON*3600:ECON*3710:ECON*3740
+ECON*4910,0.50,Special Study in Economics,B,
+ECON*4930,0.50,Environmental Economics,F,ECON*2310:ECON*2410:ECON*2770
+EDRD*1400,0.50,Introduction to Design,W,
+EDRD*2020,0.50,Interpersonal Communication,F,
+EDRD*2250,0.50,Planning Theory and Practice,F,
+EDRD*2650,0.50,Introduction to Planning and Environmental Law,B,
+EDRD*3050,0.50,Agricultural Communication I,F,
+EDRD*3120,0.50,Educational Communication,F,
+EDRD*3140,0.50,Organizational Communication,W,
+EDRD*3160,0.50,International Communication,W,
+EDRD*3400,0.50,Sustainable Communities,W,
+EDRD*3450,0.50,Watershed Planning Practice,B,
+EDRD*3500,0.50,Recreation and Tourism Planning,B,
+EDRD*4010,0.50,Tourism Planning in the Less Developed World,W,
+EDRD*4020,0.50,Rural Extension in Change and Development,F,
+EDRD*4060,0.50,Agricultural Communication II,W,EDRD*3050
+EDRD*4120,0.50,Leadership Development in Small Organizations,F,
+ENGG*1070,0.25,Occupational Health and Safety,F,
+ENGG*1100,0.75,Engineering and Design I,F,
+ENGG*1210,0.50,Engineering Mechanics I,B,
+ENGG*1500,0.50,Engineering Analysis,W,MATH*1200
+ENGG*2100,0.75,Engineering and Design II,B,ENGG*1100
+ENGG*2120,0.50,Material Science,B,CHEM*1040:PHYS*1130
+ENGG*2160,0.50,Engineering Mechanics II,F,ENGG*1210:ENGG*1500
+ENGG*2180,0.50,Introduction to Manufacturing Processes,W,ENGG*2160
+ENGG*2230,0.50,Fluid Mechanics,B,ENGG*1210:MATH*1210
+ENGG*2340,0.50,Kinematics and Dynamics,W,ENGG*1210
+ENGG*2400,0.50,Engineering Systems Analysis,F,ENGG*1210:ENGG*1500:MATH*1200:MATH*1210:PHYS*1130
+ENGG*2410,0.50,Digital Systems Design Using Descriptive Languages,F,CIS*1650:PHYS*1130
+ENGG*2450,0.50,Electric Circuits,W,ENGG*2400:PHYS*1010
+ENGG*2550,0.50,Water Management,W,CHEM*1040
+ENGG*2560,0.50,Environmental Engineering Systems,W,CHEM*1050:MATH*2270
+ENGG*2660,0.50,Biological Engineering Systems I,W,ENGG*2400:MATH*2270:BIOL*1070
+ENGG*3050,0.50,Embedded Reconfigurable Computing Systems,F,ENGG*2410:ENGG*3380
+ENGG*3070,0.50,Integrated Manufacturing Systems,F,ENGG*2120
+ENGG*3080,0.50,Energy Resources and Technologies,F,
+ENGG*3100,0.75,Engineering and Design III,W,ENGG*2100
+ENGG*3120,0.75,Computer Aided Design and Manufacturing,W,ENGG*2100:ENGG*3280
+ENGG*3130,0.50,Modelling Complex Systems,W,CIS*1500:ENGG*2400:STAT*2120
+ENGG*3140,0.50,Mechanical Vibration,F,ENGG*2340:MATH*2270
+ENGG*3150,0.50,Engineering Biomechanics,F,ENGG*1210
+ENGG*3160,0.50,Biological Engineering Systems II,F,ENGG*2230:ENGG*2660
+ENGG*3170,0.50,Biomaterials,W,ENGG*2120
+ENGG*3180,0.50,Air Quality,F,ENGG*2230:ENGG*2560
+ENGG*3190,0.50,Logic Synthesis,W,ENGG*2410
+ENGG*3210,0.50,Communication Systems,W,MATH*2130:STAT*2120
+ENGG*3220,0.50,Groundwater Engineering,W,ENGG*2230
+ENGG*3240,0.50,Engineering Economics,F,MATH*1210
+ENGG*3250,0.50,Energy Management and Utilization,W,
+ENGG*3260,0.50,Thermodynamics,F,CHEM*1040:ENGG*2230:ENGG*2400:MATH*2270
+ENGG*3280,0.75,Machine Design,F,ENGG*2120:ENGG*2160:ENGG*2230:ENGG*2340:ENGG*2450
+ENGG*3340,0.50,Geographic Information Systems in Environmental Engineering,F,CIS*1500:MATH*1000
+ENGG*3370,0.50,Applied Fluids and Thermodynamics,W,ENGG*2230:ENGG*3260
+ENGG*3380,0.50,Computer Organization and Design,W,ENGG*2410
+ENGG*3390,0.50,Signal Processing,F,ENGG*2400
+ENGG*3410,0.50,Systems and Control Theory,W,ENGG*2400:MATH*2270
+ENGG*3430,0.50,Heat and Mass Transfer,W,ENGG*2230:ENGG*3260:MATH*2270
+ENGG*3450,0.50,Electronic Devices,F,ENGG*2450
+ENGG*3470,0.50,Mass Transfer Operations,W,ENGG*2230:ENGG*3260:MATH*2270
+ENGG*3490,0.75,Introduction to Mechatronic Systems Design,W,ENGG*2340:ENGG*2450
+ENGG*3510,0.50,Electromechanical Devices,F,ENGG*2450:PHYS*1010
+ENGG*3570,0.50,MEMS and Microfabrication,F,ENGG*2450:PHYS*1010
+ENGG*3590,0.50,Water Quality,F,ENGG*2230:ENGG*2560:BIOL*1040
+ENGG*3640,0.50,Microcomputer Interfacing,F,ENGG*2410:ENGG*2450
+ENGG*3650,0.50,Hydrology,F,ENGG*2230:MATH*1210:STAT*2120
+ENGG*3670,0.50,Soil Mechanics,F,ENGG*2120:ENGG*2230
+ENGG*3700,0.50,Optimization for Engineers,F,CIS*1500:MATH*2130:MATH*2270
+ENGG*3830,0.50,Bio-Process Engineering,F,ENGG*2230:ENGG*2660
+ENGG*4000,0.00,Proposal for Engineering Design IV,B,ENGG*3100
+ENGG*4030,0.75,Manufacturing System Design,W,ENGG*2180:ENGG*3070
+ENGG*4040,0.50,Medical Imaging Modalities,F,MATH*1210:PHYS*1130
+ENGG*4050,0.50,Quality Control,W,STAT*2120
+ENGG*4060,0.50,Biomedical Signals Processing,W,ENGG*3390
+ENGG*4070,0.50,Life Cycle Assessment for Sustainable Design,W,ENGG*2100:ENGG*3240
+ENGG*4080,0.50,Micro and Nano-Scale Electronics,F,ENGG*3450
+ENGG*4090,0.75,Food and Beverage Engineering,W,ENGG*3070:ENGG*3510:MICR*1020
+ENGG*4110,1.00,Biological Engineering Design IV,B,ENGG*4000
+ENGG*4120,1.00,Engineering Systems and Computing Design IV,B,ENGG*4000
+ENGG*4130,1.00,Environmental Engineering Design IV,B,ENGG*4000
+ENGG*4150,1.00,Water Resources Engineering Design IV,B,ENGG*4000
+ENGG*4160,1.00,Mechanical Engineering Design IV,B,ENGG*4000
+ENGG*4170,1.00,Computer Engineering Design IV,B,ENGG*4000
+ENGG*4180,1.00,Biomedical Engineering Design IV,B,ENGG*4000
+ENGG*4200,0.50,Wireless Sensor Networks,F,ENGG*3640
+ENGG*4220,0.75,Interdisciplinary Mechanical Engineering Design,W,ENGG*3100
+ENGG*4230,0.75,Energy Conversion,F,ENGG*3080:ENGG*3260
+ENGG*4240,0.50,Site Remediation,F,
+ENGG*4250,0.75,Watershed Systems Design,W,ENGG*2230:ENGG*3650
+ENGG*4280,0.75,Digital Process Control Design,W,ENGG*3410
+ENGG*4300,0.75,Food Processing Engineering Design,W,ENGG*3260:ENGG*3830
+ENGG*4340,0.50,Solid and Hazardous Waste Management,F,ENGG*2560
+ENGG*4360,0.75,Soil-Water Conservation Systems Design,F,ENGG*2230:ENGG*3650:ENGG*3670
+ENGG*4370,0.75,Urban Water Systems Design,F,ENGG*2230:ENGG*3650
+ENGG*4380,0.75,Bioreactor Design,F,ENGG*3160
+ENGG*4390,0.75,Bio-instrumentation Design,F,ENGG*3450
+ENGG*4400,0.75,Biomechanical Engineering Design,W,ENGG*3150:ENGG*3170
+ENGG*4420,0.75,Real-time Systems Design,F,ENGG*2400:ENGG*3640
+ENGG*4430,0.50,Neuro-Fuzzy and Soft Computing Systems,W,ENGG*3410
+ENGG*4440,0.50,Computational Fluid Dynamics,W,ENGG*2230:ENGG*3370
+ENGG*4450,0.50,Large-Scale Software Architecture Engineering,F,CIS*2420:ENGG*2100
+ENGG*4460,0.50,Robotic Systems,F,ENGG*1500:ENGG*2400
+ENGG*4470,0.50,Finite Element Analysis,F,ENGG*2160:MATH*2130:MATH*2270
+ENGG*4480,0.75,Advanced Mechatronic Systems Design,W,ENGG*3490
+ENGG*4510,0.50,Assessment and Management of Risk,W,STAT*2040
+ENGG*4540,0.50,Advanced Computer Architecture,W,ENGG*3380
+ENGG*4550,0.50,VLSI Digital Design,W,ENGG*2410:ENGG*2450:ENGG*3450
+ENGG*4560,0.75,Embedded System Design,W,ENGG*3380
+ENGG*4580,0.75,Sustainable Energy Systems Design,W,ENGG*3080:ENGG*3370:ENGG*3430
+ENGG*4660,0.50,Medical Image Processing,W,ENGG*3390
+ENGG*4680,0.75,Multidisciplinary Engineering Design,W,ENGG*3100
+ENGG*4720,0.50,Physical Design Automation,W,CIS*2500:CIS*3490:ENGG*3700
+ENGG*4760,0.50,Biological Wastewater Treatment Design,W,ENGG*3590
+ENGG*4770,0.50,Physical and Chemical Water and Wastewater Treatment Design,F,ENGG*3590
+ENGG*4810,0.50,Control of Atmospheric Particulates,F,ENGG*2230:ENGG*2450:MATH*2130
+ENGG*4820,0.50,Atmospheric Emission Control: Combustion Systems,W,ENGG*2560:ENGG*3260
+ENGL*1030,0.50,Effective Writing,B,
+ENGL*1080,0.50,Literatures in English I: Reading the Past,B,
+ENGL*1200,0.50,Reading the Contemporary World,B,
+ENGL*1410,0.50,Major Writers,U,
+ENGL*1500,0.50,Medicine and Literature,W,
+ENGL*2040,0.50,Latina/o Literature and Cultural Production: Intro,F,
+ENGL*2080,0.50,Literatures in English II: Finding a Critical Voice,B,ENGL*1080
+ENGL*2090,0.50,Studies in Shakespeare,W,
+ENGL*2120,0.50,Seminar: Critical Practices,B,ENGL*1080
+ENGL*2130,0.50,Seminar: Literature and Social Change,B,ENGL*1080
+ENGL*2190,0.50,Representation and Sexuality,W,
+ENGL*2200,0.50,Postcolonial Literatures,F,
+ENGL*2260,0.50,Law and Literature,F,
+ENGL*2270,0.50,Fairy and Trickster and Mythical Hero,F,
+ENGL*2280,0.50,Sporting Bodies,W,
+ENGL*2290,0.50,Outlaws,W,
+ENGL*2310,0.50,Vampires and Ghosts and Mummies: Literature and the Supernatural,F,
+ENGL*2330,0.50,Print Culture and Cinema,F,
+ENGL*2550,0.50,North American Native Literatures,W,
+ENGL*2640,0.50,Culture and Location and Identity: Minoritized Literatures in Canada and Beyond,F,
+ENGL*2740,0.50,Children's Literature,B,
+ENGL*2880,0.50,Women in Literature,W,
+ENGL*2920,0.50,Elements of Creative Writing,B,
+ENGL*3050,0.50,Intermediate Fiction Writing Workshop,B,ENGL*1080:ENGL*2920
+ENGL*3060,0.50,Intermediate Poetry Writing Workshop,F,ENGL*1080:ENGL*2920
+ENGL*3070,0.50,Intermediate Screenwriting Workshop,W,ENGL*1080:ENGL*2920
+ENGL*3080,0.50,History of the English Language,U,
+ENGL*3090,0.50,Special Topics in Creative Writing Workshop,B,ENGL*1080:ENGL*2920
+ENGL*3220,0.50,Representing Britain: 18th- and 19th- Century Literature,F,
+ENGL*3240,0.50,Studies in Early Modern Literature and Culture,W,
+ENGL*3280,0.50,Old English Literature,U,
+ENGL*3300,0.50,Restoration to Romanticism: Forging the Nation,F,
+ENGL*3320,0.50,Romanticism to Victorianism: Culture and Conformity,F,
+ENGL*3340,0.50,British Imperial Culture,F,
+ENGL*3380,0.50,Studies in the History of Literary Production,W,
+ENGL*3420,0.50,20th- and 21st-Century Drama,W,
+ENGL*3460,0.50,Literature in London,U,
+ENGL*3470,0.50,Twentieth-Century British Literature I,W,
+ENGL*3480,0.50,Twentieth-Century British Literature II,F,
+ENGL*3540,0.50,Writing the United States,W,
+ENGL*3550,0.50,Modern United States Literatures,W,
+ENGL*3560,0.50,Medieval Literature,W,
+ENGL*3570,0.50,Chaucer in Context,F,
+ENGL*3630,0.50,Writing Canada: Forging the Nation,W,
+ENGL*3680,0.50,20th- and 21st-Century Canadian Literature and Criticism,F,
+ENGL*3690,0.50,History of Literary Criticism,F,
+ENGL*3750,0.50,Studies in Postcolonial Literatures,W,
+ENGL*3760,0.50,The Atlantic World,W,
+ENGL*3870,0.50,Topics in Literary and Cultural Studies,U,
+ENGL*3880,0.50,Topics in Literary and Cultural Studies,U,
+ENGL*3940,0.50,Seminar: Form and Genre and Literary Value,B,ENGL*2080
+ENGL*3960,0.50,Seminar: Literature in History,B,ENGL*2080
+ENGL*4240,1.00,Medieval and Early Modern Literatures,U,ENGL*2080:ENGL*2120:ENGL*3940
+ENGL*4250,1.00,18th- and 19th-C Literatures,U,ENGL*2080:ENGL*2120:ENGL*3940
+ENGL*4270,1.00,United States Literatures,U,ENGL*2080:ENGL*2120:ENGL*3940
+ENGL*4280,1.00,Canadian Literatures,U,ENGL*2080:ENGL*2120:ENGL*3940
+ENGL*4310,1.00,Special Studies in English,U,ENGL*2080:ENGL*2120:ENGL*3940
+ENGL*4400,1.00,Postcolonial Literatures,U,ENGL*2080:ENGL*2120:ENGL*3940
+ENGL*4410,1.00,Modern and Contemporary Literatures,U,ENGL*2080:ENGL*2120:ENGL*3940
+ENGL*4420,1.00,Women's Writings,U,ENGL*2080:ENGL*2120:ENGL*3940
+ENGL*4500,1.00,Non-fiction Prose,U,ENGL*2080:ENGL*2120:ENGL*3940
+ENGL*4720,1.00,Creative Writing: Prose/Poetry,B,ENGL*2920
+ENGL*4810,0.50,Directed Reading,B,ENGL*2080:ENGL*2120:ENGL*3940
+ENGL*4880,1.00,20th- and 21st-Century Poetry,U,ENGL*2080:ENGL*2120:ENGL*3940
+ENGL*4890,1.00,Contemporary Literary Theory,U,ENGL*2080:ENGL*2120:ENGL*3940
+ENGL*4910,0.50,Honours English Essay,B,ENGL*2080:ENGL*2120:ENGL*3940
+ENVM*3500,1.00,Environmental Management Integrated Project,W,
+ENVS*1030,1.00,Introduction to Environmental Sciences,F,
+ENVS*1060,0.50,Principles of Geology,B,
+ENVS*1100,0.50,Fundamentals of Environmental Sciences,F,
+ENVS*2030,0.50,Meteorology and Climatology,F,ENVM*1120
+ENVS*2040,0.50,Plant Health and the Environment,W,BIOL*1040
+ENVS*2060,0.50,Soil Science,B,
+ENVS*2070,0.50,Environmental Perspectives and Human Choices,F,
+ENVS*2080,0.50,Introduction to Environmental Microbiology,W,BIOL*1070:BIOL*1090
+ENVS*2120,0.50,Introduction to Environmental Stewardship,F,
+ENVS*2130,0.50,Eating Sustainably in Ontario,B,
+ENVS*2210,0.50,Apiculture and Honey Bee Biology,B,
+ENVS*2230,0.50,Communications in Environmental Science,B,ENVM*1000
+ENVS*2240,0.50,Fundamentals of Environmental Geology,F,GEOG*1300
+ENVS*2250,0.50,Geology of Natural Disasters,B,ENVS*1050
+ENVS*2270,0.50,Impacts of Climate Change,B,
+ENVS*2310,0.50,Earth Surface Processes,F,CHEM*1040:ENVS*1030
+ENVS*2330,0.50,Current Issues in Ecosystem Science and Biodiversity,F,BIOL*1050
+ENVS*2340,0.50,Current Issues in Agriculture and Landscape Management,W,AGR*2050:ENVM*1000
+ENVS*3000,0.50,Nature Interpretation,B,BIOL*2060
+ENVS*3010,0.50,Climate Change Biology,B,BIOL*2060
+ENVS*3020,0.50,Pesticides and the Environment,B,BIOL*1040
+ENVS*3030,0.50,Conservation Field Course,F,
+ENVS*3040,0.50,Natural Chemicals in the Environment,F,BIOL*1040
+ENVS*3050,0.50,Microclimatology,W,PHYS*1000
+ENVS*3060,0.50,Groundwater,W,AGR*2320
+ENVS*3080,0.50,Soil and Water Conservation,F,AGR*2320
+ENVS*3090,0.50,Insect Diversity and Biology,W,BIOL*1040
+ENVS*3100,0.50,Internship/Externship in Environmental Sciences,B,ENVM*1000
+ENVS*3140,0.50,Management of Turfgrass Diseases,F,HORT*2450
+ENVS*3150,0.50,Aquatic Systems,W,BIOL*1030:BIOL*1040:BIOL*1090:CHEM*1040
+ENVS*3180,0.50,Sedimentary Environments,F,ENVS*1050
+ENVS*3210,0.50,Plant Pathology,F,BIOL*1040
+ENVS*3220,0.50,Terrestrial Chemistry,F,CHEM*1050:ENVS*1050
+ENVS*3230,0.50,Agroforestry Systems,F,BIOL*1040
+ENVS*3250,0.50,Forest Health and Disease,F,BOT*2100
+ENVS*3270,0.50,Forest Biodiversity,W,BIOL*2060
+ENVS*3290,0.50,Waterborne Disease Ecology,F,ENVS*2320
+ENVS*3310,0.50,Soil Biodiversity and Ecosystem Function,W,AGR*2320
+ENVS*3340,0.50,Use and Management of Environmental Data,F,GEOG*2460
+ENVS*3370,0.50,Terrestrial Ecosystem Ecology,W,BIOL*2060
+ENVS*3410,0.50,Independent Research I,B,
+ENVS*3420,0.50,Independent Research II,B,ENVS*3410
+ENVS*3430,1.00,Independent Research,B,
+ENVS*3510,0.50,Independent Study I,B,
+ENVS*3520,0.50,Independent Study II,B,ENVS*3510
+ENVS*3530,1.00,Independent Study,B,
+ENVS*4070,0.50,Pollinator Conservation,W,BIOL*3130
+ENVS*4090,0.50,Soil Management,F,AGR*2301
+ENVS*4100,0.50,Integrated Management of Invasive Insect Pests,W,CROP*3300
+ENVS*4160,0.50,Soil and Nutrient Management,F,AGR*2301
+ENVS*4180,0.50,Insecticide Biological Activity and Resistance,W,
+ENVS*4190,0.50,Biological Activity of Herbicides,W,
+ENVS*4210,0.50,Meteorological and Environmental Instrumentation,W,ENVS*3050
+ENVS*4230,0.50,Biology of Aquatic Insects,F,ENVB*3090
+ENVS*4260,0.50,Field Entomology,B,ENVB*3090:ENVB*4040
+ENVS*4320,1.00,Laboratory and Field Methods in Soil Biodiversity,W,ENVS*3200
+ENVS*4350,0.50,Forest Ecology,F,BIOL*2060
+ENVS*4360,0.50,Glacial Environments,W,ENVS*2400
+ENVS*4370,0.50,Environmental Organic Chemistry,W,ENVS*3220
+ENVS*4390,1.00,Soil Variability and Land Evaluation,F,AGR*2320
+ENVS*4410,1.00,Advanced Independent Research I,B,ENVS*3410:ENVS*3420
+ENVS*4420,1.00,Advanced Independent Research II,B,ENVS*4410
+ENVS*4430,2.00,Advanced Independent Research,B,ENVS*3410:ENVS*3420
+ENVS*4510,0.50,Advanced Independent Study I,B,ENVS*3510
+ENVS*4520,0.50,Advanced Independent Study II,B,ENVS*4510
+ENVS*4530,1.00,Advanced Independent Study,B,ENVS*3510
+EQN*1010,1.00,Introduction to Equine Management,F,
+EQN*2040,0.50,Equine Anatomy and Physiology,W,BIOL*1050
+EQN*2050,0.50,Introduction to Equine Nutrition,W,BIOL*1050
+EQN*2060,0.50,Equine Event Management I,F,EQN*1010
+EQN*2070,0.50,Equine Event Management II,W,EQN*2060
+EQN*2150,0.50,Equine Facility Management and Design,W,
+EQN*2200,0.50,Equine Industry Trends and Issues I,F,EQN*1010
+EQN*2500,0.50,Equine Field Course,F,EQN*1050
+EQN*3050,0.50,Equine Exercise Physiology,W,ANSC*3080:EQN*2050
+EQN*3060,0.50,Equine Reproduction,W,BIOL*1090:EQN*2040
+EQN*3070,0.50,Equine Health Management,F,EQN*2040
+EQN*3150,0.50,Equine Exercise Physiology Laboratory,W,ANSC*3080:EQN*2040:EQN*2050
+EQN*4020,0.50,Advanced Equine Nutrition,W,EQN*2050
+EQN*4400,0.50,Equine Industry Trends and Issues II,F,EQN*2200
+EQN*4500,1.00,Equine Integrated Project,F,
+EURO*1100,0.50,European Cinema,F,
+EURO*2200,0.50,Towards European Modernism,W,
+EURO*3000,0.50,Revolution and the Fantastic in European Culture,W,
+EURO*3300,0.50,Violence and Culture,F,
+EURO*3700,0.50,Experiential Learning and Language,B,
+EURO*4050,0.50,Contemporary Europe. New Landscapes in the Post-Cold War Era,F,
+EURO*4600,0.50,Honours Seminar in European Studies,W,ARTH*1520
+EURO*4740,0.50,Research Project in European Studies,B,EURO*1100:EURO*2200:EURO*3300
+FARE*1040,1.00,Intro to Environmental Economics and Law and Policy,W,
+FARE*1300,0.50,Poverty and Food and Hunger,W,
+FARE*1400,1.00,Economics of the Agri-Food System,W,
+FARE*2410,0.50,Agrifood Markets and Policy,W,FARE*1040
+FARE*2700,0.50,Survey of Natural Resource Economics,F,ECON*1050
+FARE*3000,0.50,Food Industry Analysis and Policy,F,ECON*1050
+FARE*3030,0.50,The Firm and Markets,F,ECON*2310:ECON*2770:ECON*3740
+FARE*3170,0.50,Cost-Benefit Analysis,W,ECON*2100
+FARE*3250,0.50,Food and International Development,F,FARE*1040:FARE*1300
+FARE*3310,0.50,Operations Management,B,ACCT*1220:ECON*2740
+FARE*3320,0.50,Supply and Value Chain Management,F,FARE*3310
+FARE*4000,0.50,Agricultural and Food Policy,W,ECON*2310
+FARE*4210,0.50,World Agriculture and Food Security and Economic Development,F,FARE*1040:ECON*1100
+FARE*4220,0.50,Advanced Agribusiness Management,W,FARE*2410
+FARE*4240,0.50,Futures and Options Markets,W,ECON*2560
+FARE*4290,0.50,Land Economics,F,FARE*2700:orECON*23100
+FARE*4310,0.50,Resource Economics,W,FARE*2700
+FARE*4330,0.50,Advanced Operations Management,W,FARE*3320
+FARE*4360,0.50,Marketing Research,W,ECON*2740
+FARE*4370,0.50,Food and Agri Marketing Management,F,ACCT*2230
+FARE*4380,0.50,Retailing and Merchandising and Sales,W,FARE*3320:FARE*4370
+FARE*4500,0.50,Decision Science,F,ECON*2770
+FARE*4550,0.50,Independent Studies I,B,AGEC*2410
+FARE*4560,0.50,Independent Studies II,B,AGEC*2410
+FOOD*2010,0.50,Principles of Food Science,B,
+FOOD*2100,0.50,Communication in Food Science,W,
+FOOD*2150,0.50,Introduction to Nutritional and Food Science,F,BIOL*1040:CHEM*1040
+FOOD*2400,0.50,Introduction to Food Chemistry,B,CHEM*1040
+FOOD*2410,0.50,Introduction to Food Processing,W,CHEM*1040:BIOL*1040
+FOOD*2420,0.50,Introduction to Food Microbiology,F,BIOL*1040
+FOOD*2620,0.50,Food Engineering Principles,W,BIOC*2580:MATH*1030
+FOOD*3030,0.50,Food Chemistry I,F,BIOC*2580
+FOOD*3040,0.50,Food Chemistry II,W,FOOD*3030
+FOOD*3050,0.50,Food Chemistry I,F,BIOC*2580
+FOOD*3060,0.50,Food Chemistry II,W,FOOD*3030
+FOOD*3090,0.50,Food Science and Human Nutrition,F,AGR*1250:BIOL*1040
+FOOD*3140,0.50,Food Processing I,F,ENGG*2660
+FOOD*3160,0.75,Food Processing I,F,ENGG*2660
+FOOD*3170,0.50,Food Processing II,W,FOOD*3140
+FOOD*3230,0.75,Food Microbiology,F,MICR*2420
+FOOD*3240,0.50,Food Microbiology,F,MICR*2420
+FOOD*3260,0.50,Industrial Microbiology,W,MICR*2420
+FOOD*3270,0.50,Industrial Microbiology,W,MICR*2420
+FOOD*3430,0.50,Introduction to Food Analysis,F,FOOD*2400
+FOOD*3700,0.50,Sensory Evaluation of Foods,W,FOOD*2150:STAT*2040
+FOOD*4020,0.50,Quality Management in the Food Industry,W,FARE*3310:FOOD*3170
+FOOD*4070,0.50,Food Packaging,F,
+FOOD*4090,0.50,Functional Foods and Nutraceuticals,W,NUTR*3210
+FOOD*4110,0.50,Meat and Poultry Processing,W,ANSC*2340
+FOOD*4190,0.50,Advanced Food Analysis,F,CHEM*2400
+FOOD*4220,0.50,Topics in Food Science,B,
+FOOD*4230,0.50,Research in Food Science,B,FOOD*4220
+FOOD*4260,0.50,Food Product Development I,F,FOOD*2100:FOOD*3030:FOOD*3140:FOOD*3230:FOOD*3700
+FOOD*4270,0.50,Food Product Development II,W,FOOD*4260
+FOOD*4310,0.50,Food Safety Management Systems,W,FOOD*2010:FOOD*2410
+FOOD*4400,0.50,Dairy Processing,W,BIOC*2580:FOOD*2150:MICR*2030
+FOOD*4520,0.50,Utilization of Cereal Grains for Human Food,F,BIOC*2580:BIOL*1040
+FREN*1010,0.50,Independent French Study,B,
+FREN*1090,0.50,Basic French: Reading,B,
+FREN*1100,0.50,Basic French: Listening,B,
+FREN*1150,0.50,Elementary French,B,
+FREN*1200,0.50,French Language I,B,FREN*1150
+FREN*1300,0.50,French Language II,B,FREN*1200
+FREN*2020,0.50,France: Literature and Society,B,FREN*1200
+FREN*2060,0.50,Quebec: Literature and Society,B,FREN*1200
+FREN*2500,0.50,French Translation I,W,FREN*1300
+FREN*2520,0.50,French Composition I,B,FREN*1300
+FREN*2550,0.50,Contemporary France,W,FREN*1300
+FREN*3030,0.50,Good and Evil,F,FREN*2020:FREN*2060:FREN*2520
+FREN*3090,0.50,Classics of French Literature,W,FREN*2020:FREN*2060:FREN*2520
+FREN*3110,0.50,Storytelling in the Francophone World,W,FREN*2020:FREN*2060:FREN*2520
+FREN*3130,0.50,Representing the Self,F,FREN*2020:FREN*2060:FREN*2520
+FREN*3140,0.50,Women in Literature and Art and Film,W,FREN*2020:FREN*2060:FREN*2520
+FREN*3160,0.50,Songs and Lyrics and Poetry in French,F,FREN*2020:FREN*2060:FREN*2520
+FREN*3170,0.50,Fictions of Childhood,F,FREN*2020:FREN*2060:FREN*2520
+FREN*3500,0.50,French Translation II,F,FREN*2500
+FREN*3520,0.50,French Composition II,W,FREN*2020:FREN*2060:FREN*2520
+FREN*3610,0.50,Studies in French Literature and Culture in Nice,B,FREN*2020
+FREN*3620,0.50,Studies in French Literature and Culture in Nice,B,FREN*2020
+FREN*3630,0.50,Studies in French Literature and Culture in Nice,B,FREN*2020
+FREN*3640,0.50,Studies in French Literature and Culture in Nice,B,FREN*2020
+FREN*3650,0.50,Studies in French Literature and Culture in Nice,B,FREN*2020
+FREN*3660,0.50,Studies in French Literature and Culture in Nice,B,FREN*2020
+FREN*3670,0.50,Studies in French Literature and Culture in Nice,B,FREN*2020
+FREN*3680,0.50,Studies in French Literature and Culture in Nice,B,FREN*2020
+FREN*3690,0.50,Studies in French Literature and Culture in Nice,B,FREN*2020
+FREN*3700,0.50,Experiential Learning and Language,B,
+FREN*4010,0.50,The Art of Adaptation,F,
+FREN*4020,0.50,Contemporary Francophone Theatre,W,
+FREN*4290,0.50,Post-Colonial Francophone Fiction,W,
+FREN*4600,0.50,Honours Seminar in French Studies,F,
+FREN*4740,0.50,Research Paper in French Studies I,B,
+FREN*4770,0.50,Research Paper in French Studies II,B,FREN*4740
+FRHD*1010,0.50,Human Development,W,
+FRHD*1020,0.50,Couple and Family Relationships,W,
+FRHD*1100,0.50,Life: Health and Well-Being,F,
+FRHD*2040,0.50,Principles of Program Design for Children,W,FRHD*2270
+FRHD*2060,0.50,Adult Development and Aging,F,ANTH*1150
+FRHD*2100,0.50,Development of Human Sexuality,F,
+FRHD*2110,0.50,Exceptional Children and Youth,F,FRHD*1020:FRHD*2060
+FRHD*2260,0.50,Infant Development,W,ANTH*1150
+FRHD*2270,0.50,Development in Early and Middle Childhood,F,ANTH*1150
+FRHD*2280,0.50,Adolescent Development,W,ANTH*1150
+FRHD*2400,0.50,Introduction to Human Services,W,FRHD*1010
+FRHD*3040,0.50,Parenting and Intergenerational Relationships,W,FRHD*1020:FRHD*1100
+FRHD*3060,0.50,Principles of Social Gerontology,F,FRHD*1020
+FRHD*3070,0.50,Research Methods: Family Studies,F,
+FRHD*3090,0.50,Poverty and Health,W,FRHD*1010
+FRHD*3150,0.50,Strategies for Behaviour Change,W,FRHD*1010
+FRHD*3180,0.50,Observation and Assessment Laboratory,F,FRHD*2110:FRHD*2040
+FRHD*3190,0.50,Administration of Programs for Children,B,FRHD*2260
+FRHD*3200,1.00,Practicum I: Child,B,FRHD*2040
+FRHD*3250,1.00,Practicum I: Youth,B,FRHD*2300
+FRHD*3290,1.00,Practicum I: Adult Development,B,FRHD*2350
+FRHD*3400,0.50,Communication and Counselling Skills,B,FRHD*1020
+FRHD*3500,0.50,Research Internship,B,FRHD*3070:STAT*2090
+FRHD*4020,0.50,Family Theory,F,FRHD*1020
+FRHD*4070,0.50,Topics in Family Relations and Human Development,U,
+FRHD*4080,0.50,Topics in Family Relations and Human Development,U,
+FRHD*4190,0.50,Assessment in Gerontology,F,FRHD*2060
+FRHD*4200,0.50,Issues in Human Sexuality,W,FRHD*1020:FRHD*2100
+FRHD*4210,0.50,Senior Seminar in Early Education and Care,F,FRHD*3200
+FRHD*4250,0.50,Aging and Health,W,FRHD*2060
+FRHD*4260,0.50,Social Policy and Gerontology,W,FRHD*2060
+FRHD*4290,1.00,Practicum II: Adult Development,B,FRHD*3290
+FRHD*4310,0.50,Professional Issues,F,FRHD*3400
+FRHD*4320,0.50,Social Policies for Children and Youth and Families,W,
+FRHD*4330,1.00,Practicum II: Child,B,FRHD*3200
+FRHD*4340,1.00,Practicum II: Youth,B,FRHD*3200
+FRHD*4400,0.50,Youth and Risk and Resilience,W,FRHD*1010
+FRHD*4810,0.50,Thesis I,U,FRHD*3070
+FRHD*4910,1.00,Thesis II,U,FRHD*4810
+GEOG*1200,0.50,Society and Space,F,
+GEOG*1220,0.50,Human Impact on the Environment,B,
+GEOG*1300,0.50,Introduction to the Biophysical Environment,B,
+GEOG*1350,0.50,Earth: Hazards and Global Change,B,
+GEOG*2000,0.50,Geomorphology,F,ENGG*1100
+GEOG*2030,0.50,Environment and Development,F,
+GEOG*2110,0.50,Climate and the Biophysical Environment,W,GEOG*1300
+GEOG*2210,0.50,Environment and Resources,W,
+GEOG*2230,0.50,Commodity Chains and Cultures of Consumption,F,GEOG*1200
+GEOG*2260,0.50,Applied Human Geography,W,GEOG*1200:GEOG*1220
+GEOG*2420,0.50,The Earth From Space,F,
+GEOG*2460,0.50,Analysis in Geography,F,
+GEOG*2480,0.50,Mapping and GIS,B,
+GEOG*2510,0.50,Canada: A Regional Synthesis,W,
+GEOG*3000,0.50,Fluvial Processes,F,GEOG*2000:GEOG*2460
+GEOG*3020,0.50,Global Environmental Change,F,
+GEOG*3050,0.50,Development and the City,W,
+GEOG*3090,0.50,Gender and Environment,F,
+GEOG*3110,0.50,Biotic and Natural Resources,F,GEOG*2460:BIOL*2060
+GEOG*3210,0.50,Management of the Biophysical Environment,F,GEOG*2210
+GEOG*3320,0.50,Food Systems: Issues in Security and Sustainability,F,
+GEOG*3420,0.50,Remote Sensing of the Environment,W,GEOG*2420
+GEOG*3480,0.50,GIS and Spatial Analysis,B,GEOG*2480
+GEOG*3490,0.50,Tourism and Environment,W,
+GEOG*3600,0.50,Geography of a Selected Region,U,
+GEOG*3610,0.50,Environmental Hydrology,W,GEOG*2460:GEOG*2000
+GEOG*4110,1.00,Environmental Systems Analysis,F,GEOG*3110
+GEOG*4150,0.50,Catchment Processes,W,GEOG*3000
+GEOG*4200,0.50,Social Life of Cities,F,GEOG*2260
+GEOG*4210,0.50,Environmental Governance,F,GEOG*3210
+GEOG*4220,0.50,Local Environmental Management,W,GEOG*3210
+GEOG*4230,0.50,Environmental Impact Assessment,W,GEOG*3210
+GEOG*4250,0.50,Coastal Processes,F,GEOG*3000
+GEOG*4390,0.50,Seminar in Rural Geography,W,GEOG*2260:GEOG*3320
+GEOG*4480,1.00,Applied Geomatics,W,GEOG*3480
+GEOG*4690,1.00,Geography Field Research,F,
+GEOG*4880,0.50,Contemporary Geographic Thought,W,
+GEOG*4990,0.50,Independent Study in Geography,U,
+GERM*1100,0.50,Introductory German I,B,
+GERM*1110,0.50,Introductory German II,W,GERM*1100
+GERM*2010,0.50,Intermediate Language Practice,F,
+GERM*2490,0.50,Intermediate German,F,GERM*1110
+GERM*3000,0.50,Narratives of Migration,F,GERM*2490
+GERM*3020,0.50,Myth and Fairy Tales in Germany,W,GERM*2490
+GERM*3150,0.50,Interactive German Language and Culture,W,GERM*2010
+GERM*3470,0.50,Holocaust and WWII in German Lit. and Film,W,GERM*2010
+GERM*3600,0.50,Directed Readings in German Studies,U,
+GERM*3700,0.50,Experiential Learning and Language,B,
+GERM*4940,0.50,Research Paper in German Studies,U,
+GREK*1100,0.50,Preliminary Greek I,W,
+GREK*1110,0.50,Preliminary Greek II,F,GREK*1100
+GREK*2020,0.50,Greek Language and Culture,W,GREK*1110
+HIST*1010,0.50,Early Modern Europe,B,
+HIST*1050,0.50,Invitation to History,B,
+HIST*1150,0.50,The Modern World,B,
+HIST*1250,0.50,Science and Technology in a Global Context,B,
+HIST*2000,0.50,The British Isles: 1066-1603,B,
+HIST*2020,0.50,Film as History,W,
+HIST*2040,0.50,War and Society,F,
+HIST*2070,0.50,World Religions,W,
+HIST*2090,0.50,Indigenous Peoples of the Americas,W,
+HIST*2100,0.50,Pre-Confederation Canada,F,
+HIST*2120,0.50,Animals and Society,W,
+HIST*2130,0.50,Modern Sport – A Global History,F,
+HIST*2190,0.50,Celtic Ireland and Britain in the Early Middle Ages,W,
+HIST*2200,0.50,The Medieval World,F,
+HIST*2220,0.50,Buying and Selling: Consumer Cultures,B,
+HIST*2240,0.50,Women and War and Nation,F,
+HIST*2250,0.50,Environment and History,B,
+HIST*2260,0.50,Religion and Society,W,
+HIST*2280,0.50,Hockey in Canadian History,B,
+HIST*2300,0.50,The United States Since 1776,F,
+HIST*2340,0.50,Slavery and Migrations in the Atlantic World: 1500-1850,W,
+HIST*2450,0.50,The Practising Historian,B,
+HIST*2500,0.50,Britain Since 1603,U,
+HIST*2510,0.50,Modern Europe Since 1789,F,
+HIST*2600,0.50,Post-Confederation Canada,W,
+HIST*2820,0.50,Modern France Since 1750,U,
+HIST*2850,0.50,Ancient Greece and Rome,W,
+HIST*2890,0.50,Early Islamic World,F,
+HIST*2910,0.50,Modern Asia,W,
+HIST*2920,0.50,Republican Latin America,W,
+HIST*2930,0.50,Women and Cultural Change,F,
+HIST*3020,0.50,Sexuality and Gender in History,U,
+HIST*3070,0.50,Modern India,W,
+HIST*3080,0.50,United States in the World,F,
+HIST*3130,0.50,Popular Culture and Punishment: 1700-1900,F,HIST*1010
+HIST*3140,0.50,Witch-hunts and Popular Culture,B,
+HIST*3150,0.50,History and Culture of Mexico,U,
+HIST*3160,0.50,Canadian Political History,U,HIST*2100
+HIST*3180,0.50,Canada Since 1945,U,
+HIST*3200,0.50,Youth in History,F,
+HIST*3230,0.50,Spain and Portugal: 1085 to 1668,F,
+HIST*3240,0.50,Food History,F,
+HIST*3260,0.50,Cinema and the Moving Image,F,
+HIST*3270,0.50,Revolution in the Modern World,W,
+HIST*3310,0.50,Disease and History,U,
+HIST*3320,0.50,Modern China,F,
+HIST*3330,0.50,The Scottish Diaspora,W,
+HIST*3350,0.50,Modern Germany,U,
+HIST*3360,0.50,History and Culture of Brazil,W,
+HIST*3370,0.50,Canada and the First World War,B,
+HIST*3380,0.50,British Imperialism in Asia and Africa,F,
+HIST*3390,0.50,Governments and Indigenous Spaces,F,
+HIST*3410,0.50,Religion in 19th-Century Africa,F,HIST*1150
+HIST*3440,0.50,The Global Sixties,F,
+HIST*3450,0.50,The Uses of History,U,HIST*2450
+HIST*3460,0.50,Natural Disasters in Global History,W,
+HIST*3470,0.50,Independent Reading,U,
+HIST*3480,0.50,Workplace Learning,U,
+HIST*3520,0.50,The Vikings: Early Medieval Encounters,W,HIST*2000
+HIST*3540,0.50,World War II,W,HIST*1150
+HIST*3570,0.50,Women in Modern Europe,U,HIST*2500
+HIST*3580,0.50,Women's History in Asia,U,HIST*1150
+HIST*3590,0.50,Ancient and Medieval India,U,
+HIST*3600,0.50,Quebec and French Canada,U,HIST*2600
+HIST*3640,0.50,Madness and Psychiatry,F,
+HIST*3660,0.50,Canadian Social History,U,HIST*2600
+HIST*3690,0.50,Darwin and Culture and Society,U,
+HIST*3750,0.50,The Reformation,U,HIST*1010
+HIST*3820,0.50,Early Modern France,U,
+HIST*3830,0.50,Modern Middle East,W,HIST*2890
+HIST*3840,0.50,Ottoman Empire: 1300-1923,W,
+HIST*3910,0.50,Religion in Africa Since 1900,W,HIST*1150
+HIST*4030,1.00,Historical Biography,U,
+HIST*4040,1.00,Topics in Scottish History,U,
+HIST*4090,1.00,Modern European History,U,HIST*1150
+HIST*4100,1.00,Africa and the Slave Trades,U,HIST*2340
+HIST*4120,1.00,Topics in Global History,U,
+HIST*4140,1.00,Sexuality in the Middle Ages,F,HIST*2000
+HIST*4160,1.00,Seminar in Canadian Political History,U,HIST*2600
+HIST*4170,1.00,Exploration of Digital Humanities,W,
+HIST*4180,1.00,American Identities,F,HIST*2300
+HIST*4200,1.00,Health and Mind and Body,F,
+HIST*4220,1.00,Cities and Canadian Culture,U,HIST*2600
+HIST*4270,1.00,Topics in Modern Asia,W,HIST*2910
+HIST*4280,1.00,Poverty and Policy in the Victorian Age,U,HIST*2500
+HIST*4450,1.00,Life and Death and Migrations,F,HIST*2450
+HIST*4470,0.50,Special History Project Seminar I,U,
+HIST*4580,1.00,The French Revolution,U,HIST*2510
+HIST*4620,1.00,Seminar in Canadian Rural History,U,HIST*2600
+HIST*4700,1.00,Topics in Medieval History,U,HIST*2000
+HIST*4820,1.00,Images and Conflict and Politics in the Middle East,F,
+HIST*4970,0.50,Special History Project Seminar II,U,
+HK*2270,0.50,Principles of Human Biomechanics,F,BIOL*1090:PHYS*1000
+HK*2810,0.50,Human Physiology I: Concepts and Principles,W,BIOC*2580:BIOL*1080
+HK*3100,0.50,Neuromuscular Physiology,W,BIOM*3200
+HK*3600,0.75,Applied Human Kinetics I,F,HK*2270
+HK*3810,0.75,Human Physiology II: Integrated Systems,F,HK*2810
+HK*4070,0.50,Clinical Biomechanics,W,ENGG*2660:HK*3600
+HK*4230,0.50,Advanced Study in Human Health and Nutritional Sciences,B,
+HK*4240,0.75,Occupational Biomechanics and Ergonomics,W,ENGG*1210
+HK*4340,0.50,Genomics: Exercise and Disease,F,NUTR*3360
+HK*4360,1.00,Research in Human Health and Nutritional Sciences,B,
+HK*4460,0.50,Regulation of Human Metabolism,W,HK*3810:NUTR*4210
+HK*4510,1.00,Teaching and Learning and Knowledge Transfer,B,BIOL*1080
+HK*4550,0.50,Human Cardio-respiratory Physiology,F,HK*3810
+HK*4600,0.75,Applied Human Kinetics II,W,HK*3600
+HK*4610,0.50,Health and Injury Biomechanics,F,ENGG*3150
+HORT*1120,0.50,Grape and Wine Science,W,
+HORT*1130,0.50,Science of Gardening,F,
+HORT*2450,0.50,Introduction to Turfgrass Science,F,BIOL*1040:BIOL*1050
+HORT*3010,0.50,Annual and Perennial and Indoor Plants: Identification and Use,F,AGR*2470
+HORT*3050,0.50,Management of Turfgrass Insect Pests and Weeds,F,HORT*2450
+HORT*3150,0.50,Principles and Applications of Plant Propagation,F,AGR*2470
+HORT*3270,0.50,Medicinal Plants,W,BIOL*1050
+HORT*3280,0.50,Greenhouse Production,W,AGR*2050
+HORT*3310,0.50,Plants and Food and Health,F,BIOC*2580
+HORT*3430,0.50,Wine-Grape Culture,W,AGR*2470
+HORT*3510,0.50,Vegetable Production,F,AGR*2050
+HORT*4200,0.50,Plants and the Environment and Society,W,AGR*2470
+HORT*4300,0.50,Postharvest Physiology,W,AGR*2470
+HORT*4380,0.50,Tropical and Sub-Tropical Crops,F,AGR*2470
+HORT*4420,0.50,Fruit Crops,F,AGR*2050
+HORT*4450,0.50,Advanced Turfgrass Science,W,AGR*2050
+HROB*2010,0.50,Foundations of Leadership,B,
+HROB*2090,0.50,Individuals and Groups in Organizations,B,
+HROB*2290,0.50,Human Resources Management,B,BUS*2090
+HROB*3010,0.50,Managing and Rewarding Performance,F,BUS*3000
+HROB*3030,0.50,Workplace Health and Safety,W,BUS*3000
+HROB*3050,0.50,Employment Law,F,BUS*3000
+HROB*3070,0.50,Attracting and Acquiring Talent,F,BUS*3000
+HROB*3090,0.50,Developing Talent,W,BUS*3000
+HROB*3100,0.50,Developing Management and Leadership Competencies,B,BUS*3000
+HROB*4000,0.50,Leadership and Organizational Management Capstone,W,HROB*4100
+HROB*4010,0.50,Leadership Certificate Capstone,W,BUS*2010
+HROB*4030,0.50,Advanced Topics In Leadership and Organizational Management,U,BUS*3000
+HROB*4060,0.50,Workforce Optimization,W,BUS*3000
+HROB*4100,1.00,Evidence-Based People Management,F,BUS*3000
+HTM*1070,0.50,Responsible Tourism Policy and Planning,F,
+HTM*1160,0.50,Lodging Operations,W,
+HTM*1700,0.50,Foodservice Management,F,
+HTM*2010,0.50,Hospitality and Tourism Business Communications,B,
+HTM*2030,0.50,Control Systems in the Hospitality Industry,B,
+HTM*2070,0.50,Event Management,W,HTM*1000
+HTM*2700,0.50,Understanding Foods,B,
+HTM*2740,0.50,Cultural Aspects of Food,F,
+HTM*3030,0.50,Beverage Management,F,
+HTM*3060,0.50,Lodging Management,F,HTM*2010:HTM*1160
+HTM*3080,0.50,Marketing Strategy for Hospitality Managers,B,HTM*2010:MCS*1000
+HTM*3090,1.00,Restaurant Operations Management,B,HTM*2030:HTM*1700
+HTM*3120,0.50,Service Operations Analysis,B,ACCT*1220:ECON*2740
+HTM*3160,0.50,Destination Management and Marketing,F,HTM*1070
+HTM*3180,0.50,Casino Operations Management,W,BUS*2090
+HTM*3780,0.50,Managing Food in Canada,F,FOOD*2010
+HTM*4050,0.50,Wine and Oenology,W,
+HTM*4060,0.50,Advanced Lodging Management,W,HTM*3060
+HTM*4080,0.50,Experiential Learning and Leadership in the Hospitality and Tourism Industry,B,
+HTM*4090,0.50,Hospitality Development and Design and Sustainability,F,HTM*1000
+HTM*4110,0.50,Advanced Food Service Operations,W,HTM*3090
+HTM*4130,0.50,Current Management Topics,U,
+HTM*4140,0.50,Current Management Topics,U,
+HTM*4150,0.50,Current Management Topics,U,
+HTM*4170,0.50,International Tourism,W,HTM*3160
+HTM*4190,0.50,Hospitality and Tourism Industry Consultation,B,ACCT*2230:HTM*3080
+HTM*4250,0.50,Hospitality Revenue Management,B,FARE*3310
+HTM*4500,0.50,Special Study in Hospitality and Tourism,U,
+HUMN*1030,0.50,What Makes a Literary Classic?,F,
+HUMN*1300,0.50,Fundamentals of Arts Management I,W,
+HUMN*2020,0.50,The Criminal Mind in Italian Cinema,W,
+HUMN*2300,0.50,Fundamentals of Arts Management II,F,HUMN*1300
+HUMN*3000,0.50,Narratives of Migration,W,
+HUMN*3020,0.50,Myth and Fairy Tales in Germany,W,
+HUMN*3100,0.50,London Studies in the Humanities,W,
+HUMN*3150,0.50,Paris Studies in the Humanities,W,
+HUMN*3190,0.50,Experiential Learning,B,
+HUMN*3210,1.00,Introduction to Polish History and Culture,F,
+HUMN*3220,0.50,Krakow Studies in the Humanities I,F,
+HUMN*3230,0.50,Krakow Studies in the Humanities II,F,
+HUMN*3240,0.50,India Studies in the Humanities,W,
+HUMN*3300,0.50,Latin American Studies in the Humanities,B,
+HUMN*3400,0.50,Renaissance Lovers and Fools,F,
+HUMN*3470,0.50,Holocaust and WWII in German Lit. and Film,W,
+HUMN*4190,0.50,Experiential Learning,B,
+IBIO*3100,0.50,Interpreting Biodiversity I,W,
+IBIO*4100,1.00,Interpreting Biodiversity II,F,IBIO*3100
+IBIO*4500,1.00,Research in Integrative Biology I,B,
+IBIO*4510,1.00,Research in Integrative Biology II,B,IBIO*4500
+IBIO*4600,1.00,Integrative Marine and Freshwater Research,F,BIOL*3450:STAT*2040:ZOO*3200
+IDEV*1000,0.50,Understanding Development and Global Inequalities,F,
+IDEV*2400,0.50,Development and Social Justice and Human Rights,W,IDEV*1000
+IDEV*2500,0.50,International Development Studies,W,POLS*2080:ANTH*1150
+IDEV*3000,0.50,Poverty and Inequality,F,IDEV*2500
+IDEV*3010,0.50,Case Studies in International Development,B,IDEV*2010
+IDEV*3200,0.50,Individual Work/Study in International Development,B,
+IDEV*3300,0.50,Engaging in Development Practice,B,IDEV*2500
+IDEV*3400,0.50,Managing and Evaluating Change in Development,W,IDEV*2500
+IDEV*4190,0.25,Regional Context,B,IDEV*2010
+IDEV*4200,0.75,Advanced Work/Study in International Development,B,IDEV*4190
+IDEV*4500,1.00,International Development Seminar,B,
+IPS*1500,1.00,Integrated Mathematics and Physics I,F,
+IPS*1510,1.00,Integrated Mathematics and Physics II,W,IPS*1500
+IPS*3000,0.50,Science Communication,F,
+ISS*2000,0.50,Asia,U,
+ISS*3100,0.50,London Studies in the Social Sciences,W,
+ISS*3150,0.50,Paris Studies in the Social Sciences,W,
+ISS*3250,0.50,Krakow Studies in the Social Sciences I,F,
+ISS*3260,0.50,Krakow Studies in the Social Sciences II,F,
+ISS*3270,0.50,India Studies in the Social Sciences,W,
+ISS*3300,0.50,Latin American Studies in the Social Sciences,B,
+ISS*3420,0.50,Women Social and Political Theorists,W,SOAN*2111
+ITAL*1060,0.50,Introductory Italian I,B,
+ITAL*1070,0.50,Introductory Italian II,W,ITAL*1060
+ITAL*2090,0.50,Intermediate Italian,F,ITAL*1070
+ITAL*3060,0.50,Advanced Italian,W,ITAL*2090
+ITAL*3400,0.50,Renaissance Lovers and Fools,F,ITAL*3060
+ITAL*3700,0.50,Experiential Learning and Language,B,
+ITAL*4900,0.50,Research Project in Italian Studies,B,ITAL*3060:ITAL*3400
+LARC*1100,0.75,Design and Communications Studio,F,
+LARC*1950,0.50,History of Cultural Form I,F,
+LARC*2020,0.75,Design Studio,W,LARC*1100
+LARC*2100,0.50,Landscape Analysis,F,LARC*2020
+LARC*2230,0.50,Planting Design,W,
+LARC*2240,0.50,Plants in the Landscape,F,LARC*2230
+LARC*2410,0.50,Site Engineering,F,LARC*2020:LARC*2420
+LARC*2420,0.50,Materials and Techniques,W,LARC*1100
+LARC*2820,0.50,Urban and Regional Planning,W,
+LARC*3040,0.75,Site Planning and Design Studio,F,LARC*2020
+LARC*3050,0.75,Landscape Architecture I,W,LARC*3040
+LARC*3060,0.75,Landscape Architecture II,F,LARC*3050
+LARC*3070,1.00,Landscape Architecture III,F,LARC*3060
+LARC*3320,0.50,Principles of Landscape Ecology,F,LARC*2100:LARC*2240
+LARC*3430,0.50,Landscape Construction I,W,LARC*2410
+LARC*3440,0.75,Landscape Construction II,F,LARC*3430
+LARC*3500,0.50,Independent Study,B,LARC*3040
+LARC*4090,0.50,Seminar,W,LARC*3060
+LARC*4510,0.50,Honours Thesis,F,LARC*3060:LARC*3440
+LARC*4610,0.50,Professional Practice,F,LARC*3050
+LARC*4620,1.00,Internship in Landscape Architecture,B,LARC*3060:LARC*3440
+LARC*4710,1.00,Integrative Design Studio,W,LARC*3070:LARC*4510
+LARC*4730,0.50,Special Study in Landscape Architecture,B,LARC*3040
+LARC*4740,0.50,Case Studies,B,LARC*3040
+LAT*1100,0.50,Preliminary Latin I,F,
+LAT*1110,0.50,Preliminary Latin II,W,LAT*1100
+LAT*2000,0.50,Latin Literature,F,LAT*1110
+LAT*4100,0.50,Directed Readings in Latin Literature,F,CLAS*3060
+LAT*4150,0.50,Research Paper: Latin,B,CLAS*3060
+LING*1000,0.50,Introduction to Linguistics,B,
+LING*2400,0.50,Phonetics,W,LING*1000
+MATH*1030,0.50,Business Mathematics,B,
+MATH*1080,0.50,Elements of Calculus I,B,
+MATH*1160,0.50,Linear Algebra I,B,
+MATH*1200,0.50,Calculus I,F,
+MATH*1210,0.50,Calculus II,W,MATH*1080
+MATH*2000,0.50,Proofs and Sets and Numbers,F,IPS*1500
+MATH*2080,0.50,Elements of Calculus II,W,IPS*1500
+MATH*2130,0.50,Numerical Methods,W,IPS*1510
+MATH*2200,0.50,Advanced Calculus I,F,IPS*1510
+MATH*2210,0.50,Advanced Calculus II,W,MATH*2200
+MATH*2270,0.50,Applied Differential Equations,F,ENGG*1500:IPS*1510
+MATH*3100,0.50,Differential Equations II,W,MATH*1160
+MATH*3130,0.50,Abstract Algebra,F,MATH*2000:MATH*1160
+MATH*3160,0.50,Linear Algebra II,W,MATH*1160
+MATH*3200,0.50,Real Analysis,F,MATH*2000:MATH*2210:MATH*1160
+MATH*3240,0.50,Operations Research,F,MATH*1160
+MATH*3260,0.50,Complex Analysis,W,MATH*2200
+MATH*3510,0.50,Biomathematics,W,MATH*1160
+MATH*4050,0.50,Topics in Mathematics I,W,MATH*3200
+MATH*4060,0.50,Topics in Mathematics II,W,MATH*3200
+MATH*4150,0.50,Topics in Mathematics III,B,MATH*3200
+MATH*4200,0.50,Advanced Analysis,F,MATH*3200
+MATH*4240,0.50,Advanced Topics in Modeling and Optimization,W,
+MATH*4270,0.50,Partial Differential Equations,F,MATH*3100
+MATH*4440,0.50,Case Studies in Mathematics and Statistics,W,
+MATH*4600,1.00,Advanced Research Project in Mathematics,B,
+MBG*1000,0.50,Genetics and Society,W,
+MBG*2040,0.50,Foundations in Molecular Biology and Genetics,B,BIOL*1090
+MBG*2400,0.50,Fundamentals of Plant and Animal Genetics,F,BIOL*1050:BIOL*1090
+MBG*3040,0.50,Molecular Biology of the Gene,F,MCB*2050
+MBG*3050,0.50,Human Genetics,W,MCB*2050
+MBG*3060,0.50,Quantitative Genetics,W,MBG*2400
+MBG*3080,0.50,Bacterial Genetics,F,MBG*2040:MICR*2420
+MBG*3100,0.50,Plant Genetics,W,MBG*2040:STAT*2040
+MBG*3350,0.75,Laboratory Methods in Molecular Biology I,B,BIOC*2580:MCB*2050
+MBG*3360,0.75,Laboratory Methods in Molecular Biology II,W,MCB*2050:MBG*3350
+MBG*3660,0.50,Genomics,W,MCB*2050
+MBG*4020,0.50,Genetics of Companion Animals,F,MBG*3060
+MBG*4030,0.50,Animal Breeding Methods and Applications,W,MBG*3060
+MBG*4040,0.50,Genetics and Molecular Biology of Development,F,MBG*3040
+MBG*4110,0.50,Epigenetics,F,MBG*3040
+MBG*4160,0.50,Plant Breeding,F,MBG*2040:STAT*2040
+MBG*4240,0.50,Applied Molecular Genetics in Medicine and Biotechnology,W,MBG*3040
+MBG*4270,0.50,DNA Replication and Recombination and Repair,W,MCB*2050
+MBG*4300,0.50,Plant Molecular Genetics,F,MBG*2040
+MCB*2050,0.50,Molecular Biology of the Cell,B,BIOC*2580:MBG*2040
+MCB*3010,0.50,Dynamics of Cell Function and Signaling,W,BIOC*3560:MCB*2050
+MCB*4010,0.50,Advanced Cell Biology,W,MCB*2050
+MCB*4050,0.50,Protein and Nucleic Acid Structure,F,BIOC*3560
+MCB*4500,1.00,Research Project in Molecular and Cellular Biology I,B,MBG*3350
+MCB*4510,1.00,Research Project in Molecular and Cellular Biology,B,MCB*4500
+MCB*4600,0.50,Topics in Molecular and Cellular Biology,B,MBG*3350
+MCS*1000,0.50,Introductory Marketing,B,
+MCS*2000,0.50,Business Communication in a Changing World,F,MCS*1000
+MCS*2020,0.50,Information Management,B,
+MCS*2100,0.50,Personal Financial Management,B,
+MCS*2600,0.50,Fundamentals of Consumer Behaviour,B,MCS*1000:BUS*2090
+MCS*3000,0.50,Advanced Marketing,F,MCS*1000
+MCS*3010,0.50,Quality Management,W,ECON*2740
+MCS*3030,0.50,Research Methods,B,ECON*2740
+MCS*3040,0.50,Business and Consumer Law,B,
+MCS*3500,0.50,Marketing Analytics,B,ECON*1050:MATH*1000:MCS*2600:ECON*2740
+MCS*3600,0.50,Consumer Information Processes,B,MCS*2600:MCS*3030
+MCS*3620,0.50,Marketing Communications,B,MCS*1000:MCS*2600
+MCS*4020,0.50,Research in Consumer Studies,U,MCS*3030
+MCS*4040,0.50,Management in Product Development,F,MCS*1000:MCS*2600
+MCS*4060,0.50,Retail Management,F,MCS*3600
+MCS*4100,0.50,Entrepreneurship,F,MCS*3500
+MCS*4300,0.50,Marketing and Society,W,MCS*2600
+MCS*4370,0.50,Marketing Strategy,B,MCS*3030:MCS*3500
+MCS*4400,0.50,Pricing Management,F,ECON*3740
+MCS*4600,0.50,International Marketing,B,MCS*3030
+MCS*4910,0.50,Topics in Consumer Studies,U,MCS*2600
+MCS*4920,0.50,Topics in Consumer Studies,U,MCS*2600
+MCS*4950,0.50,Consumer Studies Practicum,B,MCS*3030:MCS*3500:MCS*3620
+MGMT*1000,1.00,Introduction to Business,F,
+MGMT*1100,0.00,Business Career Preparation,B,
+MGMT*2150,0.50,Introduction to Canadian Business Management,U,
+MGMT*3020,0.50,Corporate Social Responsibility,B,
+MGMT*3030,0.50,Managerial Communications and Team Leadership,W,
+MGMT*3320,0.50,Financial Management,B,ACCT*2230
+MGMT*3400,0.50,Current Topics in Management,B,MGMT*1000
+MGMT*4000,0.50,Strategic Management,B,ECON*2560
+MGMT*4020,0.50,Interdisciplinary Food Product Development I,F,
+MGMT*4030,0.50,Interdisciplinary Food Product Development II,W,MGMT*4020
+MGMT*4050,0.50,Business Consulting,B,MCS*1000
+MGMT*4060,0.50,Business Consulting,B,MCS*1000
+MGMT*4260,0.50,International Business,W,
+MGMT*4350,0.50,Business Case Competition Preparation,F,
+MICR*2420,0.50,Introduction to Microbiology,B,BIOL*1070
+MICR*2430,0.50,Methods in Microbial Culture and Physiology,B,MICR*2420
+MICR*3090,0.50,Mycology,F,BOT*2100
+MICR*3220,0.50,Plant Microbiology,F,BIOL*1040:BIOL*1090
+MICR*3230,0.50,Immunology,F,BIOL*1090:BIOC*2580
+MICR*3260,0.50,Microbial Adaptation,W,BIOC*3560:MBG*3080
+MICR*3330,0.50,World of Viruses,F,MCB*2050
+MICR*3420,0.50,Microbial Diversity,F,BIOC*3560:MBG*2040:MICR*2430
+MICR*3430,0.75,Advanced Methods in Microbiology,W,MBG*3080:MICR*2430
+MICR*4010,0.50,Pathogenic Bacteriology,W,MBG*3080:MCB*2050:MICR*3230
+MICR*4280,0.50,Microbial Ecology,W,MBG*2040:MICR*2430
+MICR*4330,0.50,Molecular Virology,W,MICR*3330
+MICR*4430,0.50,Medical Virology,W,MICR*3330
+MICR*4520,0.50,Microbial Cell Biology,F,BIOC*3560:MBG*3080
+MICR*4530,0.50,Immunology II,W,MICR*3230
+MUSC*1060,0.50,Amadeus to Zeppelin: Music and Culture I,B,
+MUSC*1090,0.50,Physics of Music,F,
+MUSC*1130,0.50,Introduction to Musicianship,B,
+MUSC*1180,0.50,Musicianship I,B,
+MUSC*1500,0.50,Applied Music I,B,
+MUSC*1510,0.50,Applied Music II,B,MUSC*1500
+MUSC*2010,0.50,The Musical Avant-Garde,F,
+MUSC*2030,0.50,Music in Canada,F,
+MUSC*2100,0.50,Creating Music on the Computer,B,MUSC*1180
+MUSC*2140,0.50,History of Jazz,B,
+MUSC*2150,0.50,Music and Popular Culture,B,
+MUSC*2180,0.50,Musicianship II,B,MUSC*1180
+MUSC*2220,0.50,Electronica: Music in the Digital Age,W,
+MUSC*2270,0.50,World Music,W,
+MUSC*2330,0.50,Beethoven to Broadway: Music and Culture II,F,MUSC*1060
+MUSC*2380,0.50,Classical Music from Concert Hall to Cinema,B,
+MUSC*2410,0.50,Applied Composition I,F,MUSC*2180
+MUSC*2420,0.50,Applied Composition II,W,MUSC*2410
+MUSC*2500,0.50,Applied Music III,B,MUSC*1180:MUSC*1510
+MUSC*2510,0.50,Applied Music IV,B,MUSC*2500
+MUSC*2530,0.25,Instrumental Ensembles I,B,
+MUSC*2540,0.25,Instrumental Ensembles II,B,MUSC*2530
+MUSC*2550,0.25,Choral Ensembles I,B,
+MUSC*2560,0.25,Choral Ensembles II,B,MUSC*2550
+MUSC*2570,0.25,Keyboard Accompaniment I,B,MUSC*2510
+MUSC*2580,0.25,Keyboard Accompaniment II,B,MUSC*2570
+MUSC*2660,0.50,Materials of Music I,F,MUSC*1180
+MUSC*3010,0.50,Materials of Music II,W,MUSC*2180:MUSC*2660
+MUSC*3150,0.50,Music in London,F,
+MUSC*3410,0.50,Applied Composition III,B,MUSC*2420:MUSC*2530
+MUSC*3420,0.50,Applied Composition IV,B,MUSC*3410
+MUSC*3500,0.50,Applied Music V,B,MUSC*2510:MUSC*2540
+MUSC*3510,0.50,Applied Music VI,B,MUSC*3500
+MUSC*3550,0.25,Advanced Music Ensemble I,B,MUSC*2500:MUSC*2530
+MUSC*3560,0.25,Advanced Music Ensemble II,B,MUSC*3550
+MUSC*3630,0.50,Tragedy and Technology and and Torture: Music Post 1900,W,MUSC*2660:MUSC*2330
+MUSC*3730,1.00,Topics in Jazz and Improvised Music,F,MUSC*2140
+MUSC*3740,1.00,Topics in Popular Music Studies,F,MUSC*1180:MUSC*2150
+MUSC*3800,1.00,Topics in Music History/Analysis,W,MUSC*2670:MUSC*3630
+MUSC*3820,1.00,Topics in Ethnomusicology,F,MUSC*1180:MUSC*2270
+MUSC*3860,1.00,Topics in Digital Music,F,MUSC*2100
+MUSC*3880,1.00,Topics in Music Pedagogy,W,MUSC*2180:MUSC*2660
+MUSC*4200,0.50,Independent Project in Music,B,MUSC*3730
+MUSC*4450,1.00,Honours Seminar in Music,W,
+MUSC*4460,0.50,Honours Music Recital Preparation,B,MUSC*3510
+MUSC*4470,0.50,Honours Music Recital,B,MUSC*4460
+NANO*1000,0.50,Introduction to Nanoscience,F,
+NANO*2000,0.50,Synthesis and Characterization of Nanomaterials I,F,CHEM*1050:IPS*1510:PHYS*1010
+NANO*2100,0.50,Synthesis and Characterization of Nanomaterials II,W,NANO*2000
+NANO*3200,0.50,Nanolithographic Techniques,F,NANO*2100
+NANO*3300,0.50,Spectroscopy of Nanomaterials,W,NANO*2100:CHEM*3860
+NANO*3500,0.50,Thin Film Science,F,NANO*2100
+NANO*3600,0.50,Computational Methods in Materials Science,W,MATH*1160:MATH*2170:CHEM*3860
+NANO*4100,0.50,Biological Nanomaterials,F,MATH*2270:CHEM*2820
+NANO*4200,0.50,Topics in Nanomaterials,W,NANO*3300:NANO*3500:CHEM*3860
+NANO*4700,0.50,Concepts in Quantum Computing,F,MATH*1160:CHEM*3860
+NANO*4900,0.50,Advanced Studies in Nanoscience,W,
+NANO*4910,1.00,Nanoscience Research Project I,B,
+NANO*4920,1.00,Nanoscience Research Project II,B,NANO*4910
+NEUR*2000,0.50,Introduction to Neuroscience,F,BIOL*1090:PSYC*1000
+NEUR*3100,0.50,Molecular Biology of Neurodevelopmental and Degenerative Disease,F,MCB*2050:NEUR*2000
+NEUR*3500,0.50,Techniques in Neuroscience,W,NEUR*2000:PSYC*3270
+NEUR*4000,0.50,Current Issues in Neuroscience,F,
+NEUR*4100,0.50,Neuropharmacology,F,BIOM*3090:NEUR*2000
+NEUR*4450,1.00,Research in Neurosciences,B,
+NUTR*1010,0.50,Introduction to Nutrition,B,
+NUTR*2050,0.50,Nutrition Through the Life Cycle,F,NUTR*1010
+NUTR*2150,0.50,Introduction to Nutritional and Food Sciences,F,BIOL*1040:CHEM*1040
+NUTR*3070,0.50,Nutrition and Physical Activity Interventions,W,FRHD*3070:NUTR*2050
+NUTR*3090,1.00,Clinical Nutrition I,W,BIOM*2000:FRHD*3070:NUTR*2050:NUTR*3190:STAT*2090
+NUTR*3110,0.50,Food Security,W,NUTR*2050
+NUTR*3150,0.50,Aging and Nutrition,W,NUTR*1010
+NUTR*3210,0.50,Fundamentals of Nutrition,B,BIOC*2580
+NUTR*3330,0.50,Micronutrients and Phytochemicals and Health,F,NUTR*3210
+NUTR*3360,0.50,Lifestyle Genomics,F,BIOC*2580:BIOL*1080:MBG*2040
+NUTR*3390,0.75,Applied Nutritional and Nutraceutical Sciences I,F,NUTR*3210
+NUTR*4010,0.50,Nutritional Assessment,F,NUTR*2050:NUTR*3210
+NUTR*4040,0.50,Clinical Nutrition II,F,BIOM*2000
+NUTR*4070,0.50,Nutrition Education,F,FRHD*3400:NUTR*2050
+NUTR*4090,0.50,Functional Foods and Nutraceuticals,W,NUTR*3210
+NUTR*4120,0.50,Applied Clinical Skills,W,NUTR*4010:NUTR*4040
+NUTR*4210,0.50,Nutrition and Exercise and Energy Metabolism,F,NUTR*3210:BIOM*3200
+NUTR*4320,0.50,Nutrition and Metabolic Control of Disease,W,NUTR*3210:BIOM*3200
+NUTR*4330,0.75,Applied Nutritional and Nutraceutical Sciences II,W,NUTR*3330:NUTR*3390:HK*3810
+NUTR*4360,0.50,Current Issues in Nutrigenomics,W,NUTR*3210:BIOM*3200
+NUTR*4510,0.50,Toxicology and Nutrition and Food,F,NUTR*3210
+NUTR*4810,0.50,Applied Human Nutrition Thesis I,U,FRHD*3070:NUTR*2050:NUTR*3040
+NUTR*4850,0.50,Field Experience in Nutrition Education,W,FRHD*3400:NUTR*4040:NUTR*4070
+NUTR*4900,0.50,Selected Topics in Human Nutrition,W,FRHD*3070:NUTR*3040:NUTR*4010
+NUTR*4910,1.00,Applied Human Nutrition Thesis II,U,NUTR*4810
+OAGR*2070,1.00,Introduction to Organic Agriculture,W,
+OAGR*4050,1.00,Design of Organic Production Systems,F,OAGR*2070
+OAGR*4180,0.50,Social Issues in Organic Agriculture,W,EDRD*3400
+PATH*3040,0.50,Principles of Parasitology,W,
+PATH*3610,0.50,Principles of Disease,B,
+PATH*4100,0.50,Diseases of Aquatic Animals,F,PATH*3610
+PBIO*3110,0.50,Crop Physiology,W,BIOL*1050
+PBIO*3750,0.50,Plant Tissue Culture,F,AGR*2470
+PBIO*4000,0.50,Molecular and Cellular Aspects of Plant-Microbe Interactions,F,BOT*2100
+PBIO*4070,0.50,Biological and Cultural Control of Plant Diseases,W,ENVB*3210
+PBIO*4150,0.50,Molecular and Cellular Aspects of Plant Development,W,AGR*2470:MBG*2040
+PBIO*4530,0.50,Plants and Environmental Pollution,W,BIOL*2060
+PBIO*4750,0.50,Genetic Engineering of Plants,W,AGR*2470:MBG*2040
+PHIL*1000,0.50,Classic Thinkers,F,
+PHIL*1010,0.50,Introductory Philosophy: Social and Political Issues,B,
+PHIL*1030,0.50,Sex and Love and Friendship,B,
+PHIL*1050,0.50,Ethics and Knowledge and Reality,W,
+PHIL*2000,0.50,Philosophy of Biology,W,
+PHIL*2030,0.50,Philosophy of Medicine,W,PHIL*1000
+PHIL*2060,0.50,Philosophy of Feminism I,W,PHIL*1000
+PHIL*2070,0.50,Philosophy of the Environment,W,PHIL*1000
+PHIL*2100,0.50,Critical Thinking,B,PHIL*1000
+PHIL*2110,0.50,Formal Logic,W,PHIL*1000
+PHIL*2120,0.50,Ethics,B,PHIL*1000
+PHIL*2140,0.50,Ancient Greek Philosophy,F,PHIL*1000
+PHIL*2160,0.50,Early Modern Philosophy: Reason vs. Experience,W,PHIL*1000
+PHIL*2170,0.50,Existentialism,F,PHIL*1000
+PHIL*2180,0.50,Philosophy of Science,F,PHIL*1000
+PHIL*2240,0.50,Knowledge and Belief,F,PHIL*1000
+PHIL*2280,0.50,Key Concepts in Political Philosophy,F,
+PHIL*2370,0.50,Metaphysics and Mind,W,PHIL*1000
+PHIL*2600,0.50,Business and Professional Ethics,W,PHIL*1000
+PHIL*3040,0.50,Philosophy of Law,F,PHIL*2120
+PHIL*3050,0.50,Philosophy of Art,W,
+PHIL*3060,0.50,Medieval Philosophy,W,
+PHIL*3100,0.50,Kant and His Legacy,W,
+PHIL*3160,0.50,Metaphysics,W,
+PHIL*3170,0.50,Topics in the Philosophy of Science,W,PHIL*2180
+PHIL*3180,0.50,Philosophy of Mind,F,
+PHIL*3190,0.50,Epistemology,F,
+PHIL*3200,0.50,Continental Philosophy,F,
+PHIL*3210,0.50,Women in the History of Philosophy,F,
+PHIL*3230,0.50,Theories of Justice,W,
+PHIL*3250,0.50,Philosophy of Language,F,
+PHIL*3260,0.50,Set Theory and Modal Logic,U,PHIL*2110
+PHIL*3280,0.50,21st Century Philosophy,F,
+PHIL*3290,0.50,Advanced Ethical Theory,F,
+PHIL*3300,0.50,Democracy and Its Critics,F,
+PHIL*3350,0.50,Selected Topics in Philosophy,U,
+PHIL*3360,0.50,Nineteenth Century Philosophy,F,
+PHIL*3410,0.50,Major Texts in the History of Philosophy,W,
+PHIL*3450,0.50,Ethics in the Life Sciences,W,
+PHIL*3710,0.50,Directed Reading,B,
+PHIL*3910,0.50,Indian Philosophy,F,
+PHIL*3920,0.50,Chinese Philosophy,W,
+PHIL*4040,0.50,Advanced Philosophy of the Environment,U,
+PHIL*4060,0.50,Philosophy of Feminism II,U,PHIL*2060
+PHIL*4120,0.50,Current Debates in Language and Mind,U,
+PHIL*4130,0.50,Current Debates in Continental Philosophy,U,
+PHIL*4140,0.50,Current Debates in Philosophy of Science,U,
+PHIL*4160,1.00,Philosophy Field Course,F,
+PHIL*4230,0.50,Current Debates in Social and Political Philosophy,U,
+PHIL*4310,0.50,Applied Ethics,U,
+PHIL*4340,0.50,Current Debates in Ethics,U,
+PHIL*4360,0.50,Current Debates in Epistemology,U,PHIL*3190
+PHIL*4370,0.50,Current Debates in Metaphysics,U,
+PHIL*4410,0.50,Major Texts in Philosophy,U,
+PHIL*4420,0.50,Major Texts in Philosophy,U,
+PHIL*4710,0.50,Directed Reading,B,
+PHIL*4720,0.50,Directed Reading,B,
+PHIL*4800,0.50,Honours Philosophy Research Paper I,U,
+PHIL*4820,0.50,Philosophy Research Presentation,B,
+PHYS*1010,0.50,Introductory Electricity and Magnetism,W,IPS*1500
+PHYS*1070,0.50,Physics for Life Sciences II,W,PHYS*1020
+PHYS*1080,0.50,Physics for Life Sciences,B,
+PHYS*1130,0.50,Physics with Applications,W,IPS*1500
+PHYS*1300,0.50,Fundamentals of Physics,F,
+PHYS*1600,0.50,Contemporary Astronomy,F,
+PHYS*1810,0.50,Physics of Music,F,
+PHYS*2030,0.50,Biophysics of Excitable Cells,W,
+PHYS*2180,0.50,Experimental Techniques in Physics,W,PHYS*2330
+PHYS*2240,0.50,Thermal Physics,F,IPS*1510
+PHYS*2310,0.50,Mechanics,W,MATH*2270:IPS*1500
+PHYS*2330,0.50,Electricity and Magnetism I,F,IPS*1510:PHYS*1010
+PHYS*2340,0.50,Electricity and Magnetism II,W,PHYS*2330
+PHYS*2600,0.50,General Astronomy,F,IPS*1500
+PHYS*3000,0.50,Optics: Fundamentals and Applications,W,PHYS*2340:PHYS*3130
+PHYS*3080,0.50,Energy,W,IPS*1500:MATH*1000
+PHYS*3130,0.50,Mathematical Physics,F,MATH*1160
+PHYS*3170,0.50,Radioactivity and Radiation Interactions,F,IPS*1510
+PHYS*3230,0.50,Quantum Mechanics I,F,MATH*1160
+PHYS*3400,0.50,Advanced Mechanics,F,MATH*2170:PHYS*2310
+PHYS*3510,0.50,Intermediate Laboratory,B,PHYS*2180:PHYS*2310
+PHYS*4040,0.50,Quantum Mechanics II,W,PHYS*3230
+PHYS*4070,0.50,Clinical Applications of Physics in Medicine,W,PHYS*3170
+PHYS*4120,0.50,Atomic and Molecular Physics,F,PHYS*4040
+PHYS*4130,0.50,Subatomic Physics,W,PHYS*4040
+PHYS*4150,0.50,Solid State Physics,W,PHYS*4040:PHYS*4240
+PHYS*4180,0.50,Advanced Electromagnetic Theory,F,PHYS*2340
+PHYS*4240,0.50,Statistical Physics II,F,PHYS*2240:PHYS*3230
+PHYS*4500,0.50,Advanced Physics Laboratory,B,PHYS*3510
+PHYS*4540,0.50,Molecular Biophysics,W,CHEM*3860
+PHYS*4910,0.50,Advanced Topics in Physics I,U,MATH*1160
+PHYS*4920,0.50,Advanced Topics in Physics II,U,MATH*1160
+PHYS*4930,0.50,Advanced Topics in Physics III,U,MATH*1160
+POLS*1150,0.50,Understanding Politics,B,
+POLS*1400,0.50,Issues in Canadian Politics,F,
+POLS*1500,0.50,World Politics,F,
+POLS*2000,0.50,Political Theory,F,
+POLS*2080,0.50,Development and Underdevelopment,F,
+POLS*2100,0.50,Comparative Politics,W,
+POLS*2150,0.50,Gender and Politics,W,
+POLS*2200,0.50,International Relations,F,
+POLS*2250,0.50,Public Administration and Governance,W,POLS*1150
+POLS*2300,0.50,Canadian Government and Politics,B,
+POLS*2350,0.50,Law from a Political Science Perspective,F,POLS*1150
+POLS*3000,0.50,Politics of Africa,U,POLS*2080
+POLS*3050,0.50,Canadian Political Parties and Elections and Pressure Groups,W,POLS*1400
+POLS*3060,0.50,Politics of the Middle East and North Africa,U,POLS*2080
+POLS*3080,0.50,Politics of Latin America,U,POLS*2080
+POLS*3130,0.50,Law and Politics and Judicial Process,U,POLS*2350
+POLS*3140,0.50,Politics and the Charter of Rights,W,POLS*2300
+POLS*3160,0.50,Women and Politics in the Third World,U,POLS*2080
+POLS*3180,0.50,Research Methods I: Political Inquiry and Methods,F,POLS*2080
+POLS*3210,0.50,The Constitution and Canadian Federalism,W,POLS*2300
+POLS*3230,0.50,Modern Political Thought,W,POLS*2000
+POLS*3250,0.50,Public Policy: Challenges and Prospects,F,POLS*1400
+POLS*3270,0.50,Local Government in Ontario,U,
+POLS*3300,0.50,Governing Criminal Justice,U,POLS*2350
+POLS*3320,0.50,Politics of Aid and Development,F,POLS*2080
+POLS*3370,0.50,Environmental Politics and Governance,B,
+POLS*3410,0.50,U.S. Politics and Government,U,POLS*2100
+POLS*3440,0.50,Corruption and Scandal and Political Ethics,U,
+POLS*3450,0.50,European Governments and Politics,F,EURO*1050
+POLS*3470,0.50,Business-Government Relations in Canada,U,POLS*1400
+POLS*3490,0.50,Conflict and Conflict Resolution,F,POLS*1500
+POLS*3650,0.50,Research Methods II: Quantitative Methods,W,POLS*3180
+POLS*3670,0.50,Comparative Public Policy and Administration,W,IDEV*2010
+POLS*3710,0.50,Politics and Sexuality,U,POLS*2000
+POLS*3790,0.50,International Political Economy,W,IDEV*2010
+POLS*3850,0.50,Experiential Learning in Political Science,U,
+POLS*3890,0.50,Government and Politics of India,W,POLS*2080
+POLS*3920,0.50,Modern China,F,POLS*2080
+POLS*3960,0.50,Selected Topics in Political Science,B,
+POLS*4030,0.50,Contemporary Political Theory,U,POLS*2000
+POLS*4050,1.00,Advanced Topics in Law and Politics,U,POLS*3130
+POLS*4060,0.50,Advanced Topics Lecture in Law and Politics,B,POLS*2350
+POLS*4070,1.00,Courts and Parliament,B,POLS*2350
+POLS*4100,1.00,Women and Justice and Public Policy,U,POLS*2250
+POLS*4140,1.00,Conceptions of Canada,W,POLS*2300
+POLS*4150,0.50,Advanced Lecture in Conceptions of Canada,W,POLS*2300:HIST*3160
+POLS*4160,1.00,Multi-Level Governance in Canada,U,POLS*2300
+POLS*4200,1.00,International Political Economy,U,POLS*2080
+POLS*4250,1.00,Topics in Public Management,W,POLS*2250
+POLS*4260,1.00,Topics in Public Policy,U,POLS*2250
+POLS*4270,0.50,Advanced Lecture in Public Management,F,POLS*2250:HIST*3160
+POLS*4280,0.50,Advanced Lecture in Public Policy,W,POLS*2250
+POLS*4300,1.00,Human Rights and Ethics and Development,W,POLS*2080
+POLS*4310,0.50,Advanced Lecture in Women and Justice and Public Policy,B,POLS*2250
+POLS*4320,0.50,Advanced Lecture on Human Rights and Ethics and Development,F,POLS*2080
+POLS*4340,1.00,Nationalism and State-building and Identity,U,POLS*2000
+POLS*4710,1.00,Topics in Comparative Politics,U,POLS*2080
+POLS*4720,1.00,Topics in International Relations,U,POLS*2200
+POLS*4730,1.00,International Relations of the Middle East,W,POLS*2200
+POLS*4740,1.00,Advanced Topics in Rights and Liberties,F,POLS*3130
+POLS*4760,0.50,Advanced Lecture in Comparative Politics,W,POLS*2080:POLS*3000
+POLS*4770,0.50,Advanced Lecture in International Relations,F,POLS*2200:POLS*3160
+POLS*4780,0.50,Advanced Lecture in Rights and Liberties,B,POLS*2350:POLS*3130
+POLS*4900,1.00,Special Topics Seminar in Political Science,B,
+POLS*4910,0.50,Selected Topics in Political Science II,B,
+POLS*4930,0.50,Selected Topics in Political Science,B,
+POLS*4970,0.50,Honours Political Science Research I,B,
+POLS*4980,0.50,Honours Political Science Research II,B,POLS*4970
+POPM*3240,0.50,Epidemiology,B,BIOL*1080:STAT*2040
+POPM*4040,0.50,Epidemiology of Food-borne Diseases,F,FOOD*3230
+POPM*4230,0.50,Animal Health,F,ANSC*2340
+PORT*1100,0.50,Introductory Portuguese Brazilian Culture,F,
+PORT*1110,0.50,Intermediate Portuguese Brazilian Culture,W,PORT*1100
+PSYC*1000,0.50,Introduction to Psychology,B,
+PSYC*1010,0.50,Making Sense of Data in Psychological Research,B,PSYC*1000
+PSYC*1500,0.50,Foundational Skills for Psychology,B,
+PSYC*2020,0.50,Abnormal Psychology,W,PSYC*1000
+PSYC*2070,0.50,Teams and Leadership and Professional Behaviour,B,PSYC*1500
+PSYC*2310,0.50,Social Psychology,B,PSYC*1000
+PSYC*2330,0.50,Principles of Learning,F,PSYC*1000
+PSYC*2360,0.50,Psychological Methods and Statistics,B,PSYC*1000
+PSYC*2390,0.50,Sensation and Perception,W,PSYC*1000
+PSYC*2410,0.50,Behavioural Neuroscience I,F,PSYC*1000
+PSYC*2450,0.50,Developmental Psychology,F,PSYC*1000
+PSYC*2650,0.50,Cognitive Psychology,W,PSYC*1000
+PSYC*2740,0.50,Personality,W,PSYC*1000
+PSYC*3000,0.50,Historical and Critical Perspectives on Psychology,B,PSYC*2360:PSYC*2020
+PSYC*3020,0.50,Psychology of Law,U,PSYC*2310
+PSYC*3030,0.50,Neurochemical Basis of Behaviour,W,BIOM*3090
+PSYC*3100,0.50,Evolutionary Psychology,F,
+PSYC*3110,0.50,Topics in Health Psychology,W,NEUR*2000
+PSYC*3240,0.50,Independent Research Project,B,PSYC*2360
+PSYC*3250,0.50,Psychological Measurement,B,PSYC*2360
+PSYC*3270,0.50,Cognitive Neuroscience,F,NEUR*2000
+PSYC*3280,0.50,Minds and Brains and Machines,U,
+PSYC*3290,0.50,Conducting Statistical Analyses in Psychology,B,PSYC*2360
+PSYC*3300,0.50,Psychology of Gender,W,PSYC*2310
+PSYC*3330,0.50,Memory and Attention,F,PSYC*2650
+PSYC*3350,0.50,Cross-Cultural Psychology,F,PSYC*2310
+PSYC*3410,0.50,Behavioural Neuroscience II,F,NEUR*2000
+PSYC*3450,0.50,Social and Personality Development,W,FRHD*2270
+PSYC*3470,0.50,Putting Psychology to Work,W,PSYC*2360:PSYC*2020
+PSYC*3480,0.50,Psychology of Sport,U,PSYC*2310
+PSYC*3490,0.50,Social and Organizational Psychology,F,PSYC*2310
+PSYC*3570,0.50,The Psychology of Death and Dying,U,FRHD*2270
+PSYC*3800,0.50,Psychology and Education,U,FRHD*2270
+PSYC*3850,0.50,Intellectual Disabilities,U,FRHD*2270
+PSYC*3910,0.50,Psychology Externship,B,PSYC*2360:PSYC*2020
+PSYC*4240,0.50,Advanced Independent Research Project,B,PSYC*2040
+PSYC*4310,0.50,Advanced Topics in Social and Applied Social Psychology,W,PSYC*2310:PSYC*3250:PSYC*2040
+PSYC*4330,0.50,Advanced Topics in I/O Psychology,F,PSYC*3250:PSYC*2070
+PSYC*4460,0.50,Advanced Topics in Clinical and Applied Developmental Psychology,W,PSYC*3250:PSYC*2020:PSYC*2450:PSYC*2040
+PSYC*4470,0.50,Advanced Topics in Behavioural and Cognitive Neuroscience,F,PSYC*2410:NEUR*2000
+PSYC*4540,1.00,Practical Applications of Psychology,B,PSYC*3250:PSYC*3000:PSYC*2040
+PSYC*4570,0.50,Special Topics in Applied Psychology,U,PSYC*3250:PSYC*2040
+PSYC*4580,0.50,Special Topics in Behavioural Sciences,U,PSYC*2040
+PSYC*4750,0.50,Seminar in Motivation and Emotion,W,
+PSYC*4780,0.50,Advanced Research Methods and Statistics,F,PSYC*3250:PSYC*2040
+PSYC*4870,0.50,Honours Thesis I,B,NEUR*3500
+PSYC*4880,1.00,Honours Thesis II,B,PSYC*4870
+REAL*1820,0.50,Real Estate and Housing,F,
+REAL*2820,0.50,Real Estate Finance,W,
+REAL*2850,0.50,Service Learning in Housing,F,
+REAL*3810,0.50,Real Estate Market Analysis,F,MCS*1820:ECON*2740
+REAL*3870,0.50,Topics in Housing,U,
+REAL*3880,0.50,Topics in Housing,U,
+REAL*3890,0.50,Property Management,W,COST*1800
+REAL*4820,0.50,Real Estate Appraisal,F,CIS*1200
+REAL*4830,1.00,Real Estate Development Project,W,REAL*3810:REAL*4820
+REAL*4840,0.50,Housing and Real Estate Law,F,MCS*1000:COST*1800
+REAL*4870,0.50,Sustainable Real Estate,F,
+SART*1050,0.50,Foundation Studio,B,
+SART*1060,0.50,Core Studio,B,
+SART*1150,0.50,Contemporary Artistic Practice,B,
+SART*2090,0.50,Drawing I,B,ARTH*1220
+SART*2200,0.50,Painting I,B,ARTH*1220
+SART*2300,0.50,Sculpture I,B,ARTH*1220
+SART*2460,0.50,Printmaking I,F,ARTH*1220
+SART*2610,0.50,Photography I,B,ARTH*1220
+SART*2700,0.50,Digital Media I,F,ARTH*1220
+SART*2710,0.50,Digital Media II,W,ARTH*1220
+SART*2800,0.50,Extended Practices I,B,ARTH*1220
+SART*3090,0.50,Drawing II,B,SART*2090
+SART*3200,0.50,Painting II,B,SART*2200
+SART*3300,0.50,Sculpture II,B,SART*2300
+SART*3470,0.50,Printmaking and Photo/Digital Technologies,F,SART*2460
+SART*3480,0.50,Digital Media III,F,SART*2700
+SART*3600,0.50,Digital and Non-Silver Photography,W,SART*2610
+SART*3660,0.50,Printmaking II,B,SART*2460
+SART*3750,0.50,Photography II,B,SART*2610
+SART*3770,0.50,Extended Practices II,B,SART*2800
+SART*3800,0.50,Experiential Learning I,B,
+SART*3900,0.50,Experiential Learning II,B,SART*3800
+SART*4090,0.50,Drawing III,F,SART*3090
+SART*4130,1.00,Drawing IV,W,SART*4090
+SART*4200,0.50,Painting III,F,SART*3200:
+SART*4240,1.00,Painting IV,W,SART*4200
+SART*4250,0.50,Special Topics in Painting and Drawing,W,SART*3090
+SART*4260,0.50,Special Topics in Painting and Drawing,W,SART*3090
+SART*4300,0.50,Sculpture III,B,SART*3300
+SART*4330,1.00,Senior Sculpture,B,SART*4300
+SART*4410,0.50,Printmaking III,F,SART*3660
+SART*4470,1.00,Printmaking IV,W,SART*4410
+SART*4660,0.50,Topics in Extended Practices,F,SART*3770
+SART*4670,0.50,Topics in Extended Practices,F,SART*3770
+SART*4700,0.50,Photography III,F,SART*3600
+SART*4720,1.00,Photography IV,W,SART*4700
+SART*4750,1.00,Specialized Studio Practice I,F,
+SART*4760,1.00,Specialized Studio Practice II,W,SART*4750
+SART*4800,0.50,Special Topics in Sculpture,W,SART*3300
+SART*4810,0.50,Extended Practices III,W,SART*3770
+SART*4870,0.50,Special Topics in Sculpture,W,SART*3300
+SART*4880,1.00,Extended Practices IV,W,SART*4660
+SART*4890,1.00,Digital Media IV,W,SART*3480
+SOAN*2120,0.50,Introductory Methods,B,ANTH*1150
+SOAN*2290,0.50,Identities and Cultural Diversity,U,ANTH*1150
+SOAN*2400,0.50,Introduction to Gender Systems,B,ANTH*1150
+SOAN*3040,0.50,Globalization of Work and Organizations,F,ANTH*2160
+SOAN*3070,0.50,Qualitative and Observational Methods,W,SOAN*2120
+SOAN*3100,0.50,Gender Perspectives on Families and Households,F,ANTH*2160
+SOAN*3120,0.50,Quantitative Methods,F,SOAN*2120
+SOAN*3130,0.50,Protest and Resistance and Collective Action,W,ANTH*2160
+SOAN*3240,0.50,Gender and Global Inequality I,F,ANTH*2160
+SOAN*3250,0.50,Social Change in Latin America,W,ANTH*2160
+SOAN*3680,0.50,Perspectives on Development,F,ANTH*2160
+SOAN*4210,0.50,Indigenous-Settler Relations in Canadian Society,W,ANTH*2660
+SOAN*4220,0.50,Gender and Change in Rural Canada,F,ANTH*2160:SOAN*2120
+SOAN*4230,0.50,Gender and Global Inequality II,W,SOAN*3240:GEOG*3090
+SOAN*4250,0.50,Energy and Society,F,SOAN*2120:ANTH*2160
+SOAN*4260,0.50,Migration and Inequality and Social Change,W,SOAN*2120:ANTH*2160
+SOAN*4320,0.50,Transition from School to Work,W,
+SOAN*4500,0.50,Community Development,W,ANTH*2160
+SOC*1100,0.50,Sociology,B,
+SOC*1500,0.50,Crime and Criminal Justice,B,
+SOC*2010,0.50,Canadian Society,U,SOC*1100
+SOC*2070,0.50,Social Deviance,B,SOC*1100
+SOC*2080,0.50,Rural Sociology,W,ANTH*1150
+SOC*2280,0.50,Society and Environment,F,ANTH*1150
+SOC*2390,0.50,Class and Stratification,U,SOC*1100
+SOC*2700,0.50,Criminological Theory,B,SOC*1500
+SOC*2760,0.50,Homicide,B,ANTH*1150
+SOC*3040,0.50,Sociology of Social Welfare,W,SOAN*2112:SOAN*2120
+SOC*3130,0.50,Politics and Society,U,SOAN*2112:SOAN*2120
+SOC*3310,0.50,Contemporary Theory,F,SOAN*2112:SOAN*2120
+SOC*3380,0.50,Society and Nature,W,GEOG*2210
+SOC*3410,0.50,Individual and Society,W,SOAN*2112:SOAN*2120
+SOC*3490,0.50,Law and Society,W,SOAN*2112:SOAN*2120
+SOC*3710,0.50,Youth Justice,B,SOAN*2112:SOAN*2120
+SOC*3730,0.50,Courts and Society,W,SOAN*2112:SOAN*2120
+SOC*3740,0.50,Corrections and Penology,F,SOAN*2112:SOAN*2120
+SOC*3750,0.50,Police in Society,B,SOAN*2112:SOAN*2120
+SOC*3840,0.50,Seminar in Sociology,B,SOAN*2112
+SOC*3850,0.50,Seminar in Sociology,B,SOAN*2112
+SOC*3950,0.50,Special Projects in Sociology,B,
+SOC*4010,0.50,Violence and Society,B,SOC*2700:SOAN*3120
+SOC*4030,0.50,Advanced Topics in Criminology,F,SOC*3490
+SOC*4200,0.50,Advanced Topics in Criminal Justice,W,SOC*3490
+SOC*4230,0.50,Comparative Sociology,W,SOAN*2120:SOC*2080
+SOC*4300,0.50,Theoretical and Methodological Issues,U,SOAN*3070:SOAN*3120:SOC*3310
+SOC*4410,0.50,Women and Work and Public Policy,B,ANTH*2160
+SOC*4420,0.50,Sociology of Food,F,ANTH*2160:SOC*2080:SOAN*2120
+SOC*4430,0.50,Alternative Social Possibilities,W,ANTH*3690
+SOC*4740,0.50,Seminar in Sociology,B,SOC*3310:SOAN*3070:SOAN*3120
+SOC*4840,0.50,Seminar in Sociology,B,SOC*3310:SOAN*3070:SOAN*3120
+SOC*4880,0.50,Special Projects in Sociology,B,
+SOC*4890,0.50,Special Projects in Sociology,B,
+SOC*4900,0.50,Honours Sociology Thesis I,B,SOC*3310:SOAN*3070:SOAN*3120
+SOC*4910,0.50,Honours Sociology Thesis II,B,SOC*4900
+SPAN*1100,0.50,Introductory Spanish I,B,
+SPAN*1110,0.50,Introductory Spanish II,B,
+SPAN*2000,0.50,Intermediate Spanish I,B,
+SPAN*2010,0.50,Intermediate Spanish II,B,HISP*2000
+SPAN*2040,0.50,Culture of Spain,F,HISP*1110
+SPAN*2990,0.50,Hispanic Literary Studies,W,HISP*1110
+SPAN*3080,0.50,Spanish American Culture,F,HISP*2000
+SPAN*3210,0.50,Topics in Hispanic Studies,B,HISP*3220:HISP*3230
+SPAN*3220,0.50,Literature and Arts I: Spain Pre-1936,F,HISP*2990
+SPAN*3230,0.50,Literature and Arts II: Latin America Pre-1950,W,HISP*2990
+SPAN*3240,0.50,Topics in Hispanic Linguistics,W,HISP*1110
+SPAN*3500,0.50,Advanced Spanish I,F,HISP*2010
+SPAN*3700,0.50,Experiential Learning and Language,B,
+SPAN*3800,0.50,Directed Readings in Hispanic Studies,U,HISP*3220:HISP*3230
+SPAN*3810,0.50,Directed Readings in Hispanic Studies,U,HISP*3220:HISP*3230
+SPAN*4100,1.00,Seminar in Hispanic Studies,B,HISP*4410:HISP*4420
+SPAN*4410,1.00,Senior Seminar on Latin American Post-1950,F,HISP*2990
+SPAN*4420,1.00,Senior Seminar on Spain or Africa Post-1936,W,HISP*2990
+SPAN*4500,1.00,Spanish Translation: Theory and Practice,W,HISP*3500
+SPAN*4840,1.00,Research Paper in Hispanic Studies,U,HISP*3220:HISP*3230
+STAT*2040,0.50,Statistics I,B,
+STAT*2050,0.50,Statistics II,B,STAT*2040
+STAT*2060,0.50,Statistics for Business Decisions,B,
+STAT*2080,0.50,Introductory Applied Statistics I,F,
+STAT*2090,0.50,Introductory Applied Statistics II,W,STAT*2080
+STAT*2120,0.50,Probability and Statistics for Engineers,B,IPS*1510
+STAT*2230,0.50,Biostatistics for Integrative Biology,W,BIOL*1070
+STAT*3100,0.50,Introductory Mathematical Statistics I,F,IPS*1510
+STAT*3110,0.50,Introductory Mathematical Statistics II,W,STAT*3100
+STAT*3210,0.50,Experimental Design,F,STAT*2050
+STAT*3240,0.50,Applied Regression Analysis,F,IPS*1510
+STAT*3320,0.50,Sampling Theory with Applications,F,IPS*1510
+STAT*3510,0.50,Environmental Risk Assessment,W,STAT*2050
+STAT*4000,0.50,Statistical Computing,F,MATH*2130:STAT*2050:STAT*3110
+STAT*4050,0.50,Topics in Applied Statistics I,F,STAT*3110:STAT*3240
+STAT*4060,0.50,Topics in Applied Statistics II,F,STAT*3110:STAT*3240
+STAT*4150,0.50,Topics in Applied Statistics III,B,STAT*3110:STAT*3240
+STAT*4340,0.50,Statistical Inference,W,STAT*3110:STAT*3240
+STAT*4350,0.50,Applied Multivariate Statistical Methods,F,MATH*1160
+STAT*4360,0.50,Applied Time Series Analysis,F,STAT*3240
+STAT*4600,1.00,Advanced Research Project in Statistics,B,
+THST*1040,0.50,Introduction to Performance,B,
+THST*1190,0.50,Theatre Workshop I,W,
+THST*1200,0.50,The Languages of Media,F,
+THST*1270,0.50,Theatre Research I,W,
+THST*2050,0.50,Devising,W,THST*1040:THST*1190
+THST*2120,0.50,Writing for Performance,F,THST*1040
+THST*2190,1.00,Theatre Workshop II,F,THST*1040:THST*1190
+THST*2270,0.50,Theatre Research II,W,THST*1270
+THST*2450,0.50,Approaches to Media Studies,W,THST*1200
+THST*2500,0.50,Contemporary Cinema,W,
+THST*2650,0.50,History of Communication,F,
+THST*3000,0.50,Experiential Learning,B,THST*2050:THST*2190
+THST*3010,0.50,Experiential Learning,B,THST*2050:THST*2190
+THST*3140,0.50,Performance and the Past,W,THST*1040
+THST*3170,0.50,Special Topics,F,THST*2270
+THST*3190,1.00,Theatre Workshop III,F,THST*2190
+THST*3260,0.50,Shakespeare: Text and Performance,B,THST*2010
+THST*3340,0.50,Voice and Text in Performance,B,THST*3080
+THST*3500,0.50,Performance Praxis I,W,THST*2050:THST*2270
+THST*3530,0.50,Canadian Cinema,F,
+THST*3600,0.50,Directed Readings,U,THST*2010:THST*2230:THST*2050
+THST*3630,0.50,Special Studies in Studio Practice,U,THST*2080
+THST*3950,0.50,Drama in London,U,
+THST*4240,0.50,Theatrical Organization and Culture,F,
+THST*4270,0.50,Research Seminar I,F,THST*2270
+THST*4280,1.00,Ensemble Project,W,THST*2010:THST*2230:THST*2080
+THST*4290,0.50,Research Seminar II,W,THST*4270
+THST*4500,1.00,Performance Praxis II,W,THST*3500
+THST*4650,0.50,Honours Essay,U,THST*3650:THST*3550:THST*3850
+TOX*2000,0.50,Principles of Toxicology,F,CHEM*1050:IPS*1500
+TOX*3300,0.50,Analytical Toxicology,F,CHEM*2480:BIOC*2580:TOX*2000
+TOX*3360,0.50,Environmental Chemistry and Toxicology,B,CHEM*1050
+TOX*4000,0.50,Medical Toxicology,F,BIOM*3090
+TOX*4100,0.50,Toxicological Pathology,W,PATH*3610
+TOX*4200,0.50,Topics in Toxicology,W,TOX*2000:TOX*3300
+TOX*4590,0.50,Biochemical Toxicology,F,BIOC*3570
+TOX*4900,1.00,Toxicology Research Project I,B,TOX*3300
+TOX*4910,1.00,Toxicology Research Project II,B,TOX*4900
+UNIV*1150,1.00,The Politics and Science and Culture of Hunger,W,
+UNIV*1200,0.50,First Year Seminar,B,
+UNIV*1250,0.00,Experiential Learning Opportunity I: Peer Helper,U,
+UNIV*1260,0.00,Experiential Learning Opportunity II: Peer Helper,U,UNIV*1250
+UNIV*2200,0.50,Towards Sustainability,F,
+UNIV*2250,0.00,Experiential Learning Opportunity III: Peer Helper,U,UNIV*1250:UNIV*1260
+UNIV*2260,0.00,Experiential Learning Opportunity IV: Peer Helper,U,UNIV*2250
+UNIV*2410,0.50,Engaged Global Citizenship,W,
+UNIV*3000,0.50,Civic Engagement and Service Learning,W,
+UNIV*3010,0.50,University Studies in London I,U,
+UNIV*3020,0.50,University Studies in London II,U,
+UNIV*3150,0.50,University Studies in Paris I,W,
+UNIV*3160,0.50,University Studies in Paris II,W,
+UNIV*3170,0.50,University Studies in Paris III,W,
+UNIV*3210,1.00,Contemporary China,F,
+UNIV*3220,0.50,University Studies in Shanghai I,F,
+UNIV*3230,0.50,University Studies in Shanghai II,U,
+UNIV*3240,0.50,University Studies in Shanghai III,U,
+UNIV*4410,0.50,Civic Engagement with Communities,F,UNIV*2410
+VETM*3070,2.00,Veterinary Anatomy,B,
+VETM*3080,2.00,Veterinary Physiology and Biochemistry,B,
+VETM*3120,0.75,Veterinary Histology and General Pathology,B,
+VETM*3210,0.50,Art of Veterinary Medicine I,B,
+VETM*3220,0.50,Art of Veterinary Medicine II,B,VETM*3210
+VETM*3390,0.50,Developmental Biology,B,
+VETM*3400,0.75,Health Management I,B,
+VETM*3410,0.75,Health Management II,B,
+VETM*3430,0.25,Clinical Medicine I,B,
+VETM*3440,0.50,Clinical Medicine II,B,
+VETM*3450,2.75,Principles of Disease in Veterinary Medicine,B,
+VETM*3460,0.75,Theriogenology,B,
+VETM*3470,0.75,Anaesthesiology and Pharmacology,B,
+VETM*3510,0.25,Principles of Surgery,B,
+VETM*4220,0.50,Art of Veterinary Medicine III,B,
+VETM*4420,0.25,Clinical Pharmacology,B,
+VETM*4450,0.50,Equine Medicine and Surgery,B,
+VETM*4460,1.00,Food Animal Medicine and Surgery,B,
+VETM*4470,1.00,Medicine and Surgery of Dog and Cat,B,
+VETM*4480,0.75,Comparative Medicine,B,
+VETM*4490,1.00,Systems Pathology,B,
+VETM*4530,0.50,Health Management III,B,
+VETM*4540,1.75,Surgical Exercises,B,
+VETM*4610,7.50,Small Animal Stream,B,
+VETM*4660,7.50,Rural Community Practice Stream,B,
+VETM*4710,7.50,Food Animal Stream,B,
+VETM*4870,0.25,Clinical Medicine III,B,
+VETM*4900,2.50,Veterinary Externship,B,
+VETM*4920,7.50,Equine Stream,B,
+WMST*1000,0.50,Introduction to Women's Studies,B,
+WMST*2000,0.50,Women and Representation,W,
+XSEN*3030,0.50,Pharmacology and Applied Toxicology,W,BIOC*2580:CHEM*2400
+XSEN*3040,0.50,Occupational Health and Chemistry,W,CHEM*2700
+XSEN*3060,0.50,Pharmaceutical Analysis: Advanced,W,BIOC*2580:CHEM*2400
+XSEN*3070,0.50,Pharmaceutical Product Formulations,W,CHEM*3750
+XSEN*3090,0.50,Biopharmaceuticals,W,BIOC*2580:CHEM*2700
+XSEN*3200,0.50,Pharmaceutical Organic Chemistry,W,CHEM*3750
+XSEN*3210,0.50,Introduction to Pharmaceutical Manufacturing,W,CHEM*2700
+ZOO*2090,0.50,Vertebrate Structure and Function,F,BIOL*1070
+ZOO*2700,0.50,Invertebrate Morphology and Evolution,W,BIOL*1070
+ZOO*3000,0.50,Comparative Histology,F,ZOO*2090
+ZOO*3050,0.50,Developmental Biology,W,MBG*2040
+ZOO*3600,0.50,Comparative Animal Physiology I,F,BIOC*2580:ZOO*2090
+ZOO*3610,0.25,Lab Studies in Animal Physiology I,F,STAT*2040
+ZOO*3620,0.50,Comparative Animal Physiology II,W,ZOO*3200
+ZOO*3630,0.25,Lab Studies in Animal Physiology II,W,ZOO*3200
+ZOO*3700,0.50,Integrative Biology of Invertebrates,F,ZOO*2700
+ZOO*4070,0.50,Animal Behaviour,F,BIOL*2400:STAT*2040
+ZOO*4170,0.50,Experimental Comparative Animal Physiology,W,BIOM*3200
+ZOO*4300,0.75,Marine Biology and Oceanography,F,BIOL*3450:ZOO*2700
+ZOO*4330,0.50,Biology of Fishes,W,STAT*2040:ZOO*2090
+ZOO*4570,0.50,Marine Ecological Processes,W,BIOL*2060:BIOL*3450:PHYS*1080
+ZOO*4910,0.50,Integrative Vertebrate Biology,F,BIOL*2400:ZOO*2090
+ZOO*4920,0.25,Lab Studies in Ornithology,F,ZOO*2090
+ZOO*4940,0.25,Lab Studies in Herpetology,W,ZOO*2090
+ZOO*4950,0.25,Lab Studies in Mammalogy,W,ZOO*2090

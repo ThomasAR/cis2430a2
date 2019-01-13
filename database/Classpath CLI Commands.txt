@@ -1,0 +1,5 @@
+javac -cp .;mysql-connector-java-8.0.13.jar *.java
+java -cp .;mysql-connector-java-8.0.13.jar ConnectionDemo
+
+javac -cp .:mysql-connector-java-8.0.13.jar *.java
+java -cp .:mysql-connector-java-8.0.13.jar ConnectionDemo

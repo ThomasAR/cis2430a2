@@ -1,0 +1,7 @@
+- CC - parse each course string returned from database into Course object and populate HashMap
+- Student - loop through ArrayList of course strings, parsing each string either into Course or Attempt object based on whether status and grade are included, and storing in either ArrayList<Course> coursesPlanned or ArrayList<Attempt> coursesTaken
+- Planner - loop through ArrayList<Course> coursesTaken and only add courses to new ArrayList<Course> transcript if their status is "Completed", then passing this transcript ArrayList of Course objects (rather than Attempt objects) into the student's degree's meetsRequirements method
+- write paragraph about bart implementation
+- write readme file
+- add javadocs to all classes
+- ensure all classes have toString and equals methods
